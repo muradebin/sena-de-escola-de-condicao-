@@ -1,0 +1,717 @@
+﻿{
+    "bundle":  "lp",
+    "tier":  "paid",
+    "category":  "sdt",
+    "unit":  "sdt3",
+    "title":  "Sinais de Trânsito",
+    "indexHtml":  "E:\\Programas\\Para ver uma sena\\1\\assets\\flutter_assets\\assets\\lp\\www\\sdt3\\index.html",
+    "questionCount":  25,
+    "usedImages":  [
+                       "data/images/img-0809-f07f-98ef-92e2.jpg",
+                       "data/images/img-0d8c-9d54-ceb2-3be6.png",
+                       "data/images/img-1e18-12f3-8e80-9110.jpg",
+                       "data/images/img-235b-dac0-a122-1fa7.png",
+                       "data/images/img-2e71-d167-e364-ac9b.jpg",
+                       "data/images/img-30a3-65b4-046d-10ca.png",
+                       "data/images/img-35e4-b149-4c47-ddb4.jpg",
+                       "data/images/img-4f8f-bfba-42f4-2ac6.jpg",
+                       "data/images/img-597c-2e7f-c4fc-6a22.png",
+                       "data/images/img-5dad-ea22-bcea-575b.jpg",
+                       "data/images/img-5ecd-d92f-708d-b606.png",
+                       "data/images/img-6aba-3b80-0304-06b2.png",
+                       "data/images/img-769e-f30c-bd5b-ac8f.jpg",
+                       "data/images/img-7f85-7005-8d33-2b2e.jpg",
+                       "data/images/img-9c73-12c2-f9f9-4a1b.png",
+                       "data/images/img-9d07-1e6d-f0ec-bf75.jpg",
+                       "data/images/img-acd3-349e-1286-28fd.png",
+                       "data/images/img-afaf-dbdb-afb0-d37d.png",
+                       "data/images/img-bed7-d179-b288-9873.png",
+                       "data/images/img-d313-f757-cfea-4491.jpg",
+                       "data/images/img-d70f-9429-dc27-78f2.png",
+                       "data/images/img-e096-d4e4-872e-e011.jpg",
+                       "data/images/img-e28c-25c7-9217-dc22.png",
+                       "data/images/img-e5fa-0e98-d9ae-ddfc.jpg",
+                       "data/images/img-f44a-8c2c-f869-a925.png"
+                   ],
+    "availableImages":  [
+                            "img-0809-f07f-98ef-92e2.jpg",
+                            "img-0d8c-9d54-ceb2-3be6.png",
+                            "img-1e18-12f3-8e80-9110.jpg",
+                            "img-235b-dac0-a122-1fa7.png",
+                            "img-2e71-d167-e364-ac9b.jpg",
+                            "img-30a3-65b4-046d-10ca.png",
+                            "img-35e4-b149-4c47-ddb4.jpg",
+                            "img-4f8f-bfba-42f4-2ac6.jpg",
+                            "img-597c-2e7f-c4fc-6a22.png",
+                            "img-5dad-ea22-bcea-575b.jpg",
+                            "img-5ecd-d92f-708d-b606.png",
+                            "img-648a-0bf1-7ac3-4226.png",
+                            "img-6aba-3b80-0304-06b2.png",
+                            "img-769e-f30c-bd5b-ac8f.jpg",
+                            "img-7f85-7005-8d33-2b2e.jpg",
+                            "img-9bdf-ce78-522e-6d1e.png",
+                            "img-9c73-12c2-f9f9-4a1b.png",
+                            "img-9d07-1e6d-f0ec-bf75.jpg",
+                            "img-acd3-349e-1286-28fd.png",
+                            "img-afaf-dbdb-afb0-d37d.png",
+                            "img-bed7-d179-b288-9873.png",
+                            "img-d313-f757-cfea-4491.jpg",
+                            "img-d70f-9429-dc27-78f2.png",
+                            "img-e096-d4e4-872e-e011.jpg",
+                            "img-e28c-25c7-9217-dc22.png",
+                            "img-e5fa-0e98-d9ae-ddfc.jpg",
+                            "img-f44a-8c2c-f869-a925.png"
+                        ],
+    "questions":  [
+                      {
+                          "n":  1,
+                          "slideId":  "{435C2BC5-97EE-427A-B22E-36A689B556E0}",
+                          "type":  "MultipleChoice",
+                          "question":  "O que indica o sinal?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que indica o sinal?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-4f8f-bfba-42f4-2ac6.jpg",
+                          "imageRelativePath":  "data/images/img-4f8f-bfba-42f4-2ac6.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Pista obrigatória para riquexó.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePista obrigatória para riquexó.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Pista obrigatória para veículos de tracção manual.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePista obrigatória para veículos de tracção manual.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Pista obrigatória para veículos de tracção animal.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePista obrigatória para veículos de tracção animal.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  2,
+                          "slideId":  "{43BBEE50-FB5C-4CBF-882C-FC570B436A0F}",
+                          "type":  "MultipleChoice",
+                          "question":  "O que indica o sinal?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que indica o sinal?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-e5fa-0e98-d9ae-ddfc.jpg",
+                          "imageRelativePath":  "data/images/img-e5fa-0e98-d9ae-ddfc.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Trânsito proibido a veículos automóveis e motociclos com carro.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eTrânsito proibido a veículos automóveis e motociclos com carro.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Trânsito proibido a Táxis.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eTrânsito proibido a Táxis.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Trânsito proibido a automóveis ligeiros de passageiros.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eTrânsito proibido a automóveis ligeiros de passageiros.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  3,
+                          "slideId":  "{B5EFF9D6-7A60-4100-8BBA-88BD96ED272C}",
+                          "type":  "MultipleChoice",
+                          "question":  "O que indica o sinal?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que indica o sinal?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-0809-f07f-98ef-92e2.jpg",
+                          "imageRelativePath":  "data/images/img-0809-f07f-98ef-92e2.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Área reservada para autocarros e autocarros médios.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eÁrea reservada para autocarros e autocarros médios.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Faixa reservada para qualquer tipo de autocarro do lado esquerdo.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eFaixa reservada para qualquer tipo de autocarro do lado esquerdo.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Parque de estacionamento para autocarros e autocarros médios.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eParque de estacionamento para autocarros e autocarros médios.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  4,
+                          "slideId":  "{EDF41E0B-0E2A-4EF4-B923-0CBD1EC9DF2E}",
+                          "type":  "MultipleChoice",
+                          "question":  "A que grupo pertence o sinal?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA que grupo pertence o sinal?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-d313-f757-cfea-4491.jpg",
+                          "imageRelativePath":  "data/images/img-d313-f757-cfea-4491.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Sinais de interesse turístico.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSinais de interesse turístico.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Sinais de direcção para áreas turísticas.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSinais de direcção para áreas turísticas.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Sinais de direcção nas estradas, ruas e vias rápidas.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSinais de direcção nas estradas, ruas e vias rápidas.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  5,
+                          "slideId":  "{CAEE3CBA-9035-4495-8690-7B98C635DB62}",
+                          "type":  "MultipleChoice",
+                          "question":  "O que indica o sinal?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que indica o sinal?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-1e18-12f3-8e80-9110.jpg",
+                          "imageRelativePath":  "data/images/img-1e18-12f3-8e80-9110.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Passagem de nível.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePassagem de nível.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Passagem de um veículo automóvel de cada vez.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePassagem de um veículo automóvel de cada vez.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "A presença de máquinas na via.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA presença de máquinas na via.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  6,
+                          "slideId":  "{0AAA80D6-62CE-4E93-BDEC-9578CDD7EB92}",
+                          "type":  "MultipleChoice",
+                          "question":  "O que indica o sinal vertical?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que indica o sinal vertical?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-2e71-d167-e364-ac9b.jpg",
+                          "imageRelativePath":  "data/images/img-2e71-d167-e364-ac9b.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Fim da proibição de ultrapassagem.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eFim da proibição de ultrapassagem.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Fim da proibição de ultrapassagem para motociclos simples.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eFim da proibição de ultrapassagem para motociclos simples.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Fim da proibição de ultrapassagem para automóveis pesados.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eFim da proibição de ultrapassagem para automóveis pesados.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  7,
+                          "slideId":  "{F0CC061A-DF57-4653-A4EF-D95DB05F650C}",
+                          "type":  "MultipleChoice",
+                          "question":  "O que indica o sinal?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que indica o sinal?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-7f85-7005-8d33-2b2e.jpg",
+                          "imageRelativePath":  "data/images/img-7f85-7005-8d33-2b2e.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Área reservada para veículos que transportam substâncias perigosas.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eÁrea reservada para veículos que transportam substâncias perigosas.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Área reservada para veículos com dimensões anormais.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eÁrea reservada para veículos com dimensões anormais.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Parque de estacionamento para veículos que transportam substâncias perigosas.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eParque de estacionamento para veículos que transportam substâncias perigosas.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  8,
+                          "slideId":  "{178C08C4-830C-457E-BC47-F17AFC492BBB}",
+                          "type":  "MultipleChoice",
+                          "question":  "O que indica o sinal?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que indica o sinal?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-769e-f30c-bd5b-ac8f.jpg",
+                          "imageRelativePath":  "data/images/img-769e-f30c-bd5b-ac8f.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Cascata.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCascata.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Águas interiores.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eÁguas interiores.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Águas termais.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eÁguas termais.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  9,
+                          "slideId":  "{D3AE8A72-E2B0-431E-9B68-434D328ED5E0}",
+                          "type":  "MultipleChoice",
+                          "question":  "O que indica o sinal de perigo?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que indica o sinal de perigo?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-9d07-1e6d-f0ec-bf75.jpg",
+                          "imageRelativePath":  "data/images/img-9d07-1e6d-f0ec-bf75.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Passagem de nível sem guarda com duas ou mais vias.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePassagem de nível sem guarda com duas ou mais vias.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Local de passagem de nível sem guarda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eLocal de passagem de nível sem guarda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Passagem de nível com guarda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePassagem de nível com guarda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  10,
+                          "slideId":  "{61D7DFEE-5379-4C9C-9488-8C341BAE1B31}",
+                          "type":  "MultipleChoice",
+                          "question":  "O que indica o sinal?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que indica o sinal?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-e096-d4e4-872e-e011.jpg",
+                          "imageRelativePath":  "data/images/img-e096-d4e4-872e-e011.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Área reservada para veículos de emergência.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eÁrea reservada para veículos de emergência.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Área reservada para miniautocarros.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eÁrea reservada para miniautocarros.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Área reservada para veículos com dimensões anormais.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eÁrea reservada para veículos com dimensões anormais.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  11,
+                          "slideId":  "{658F44C6-473A-4D48-B62A-DBDA88BB7EB0}",
+                          "type":  "MultipleChoice",
+                          "question":  "O que indica o sinal circular?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que indica o sinal circular?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-f44a-8c2c-f869-a925.png",
+                          "imageRelativePath":  "data/images/img-f44a-8c2c-f869-a925.png",
+                          "options":  [
+                                          {
+                                              "text":  "Paragem proibida.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eParagem proibida.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Fim do estacionamento proibido.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eFim do estacionamento proibido.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Estacionamento proibido",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eEstacionamento proibido\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  12,
+                          "slideId":  "{48FC0C2C-8CAB-43B2-B64B-785C4B254947}",
+                          "type":  "MultipleChoice",
+                          "question":  "O que indica o sinal?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que indica o sinal?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-235b-dac0-a122-1fa7.png",
+                          "imageRelativePath":  "data/images/img-235b-dac0-a122-1fa7.png",
+                          "options":  [
+                                          {
+                                              "text":  "Dar prioridade nas passagens estreitas.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eDar prioridade nas passagens estreitas.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Prioridade nas passagens estreitas.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePrioridade nas passagens estreitas.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Fim da fila de trânsito a esquerda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eFim da fila de trânsito a esquerda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  13,
+                          "slideId":  "{92184FFB-A2D7-4BD8-8F15-C345955E42A1}",
+                          "type":  "MultipleChoice",
+                          "question":  "O que indica o sinal?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que indica o sinal?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-597c-2e7f-c4fc-6a22.png",
+                          "imageRelativePath":  "data/images/img-597c-2e7f-c4fc-6a22.png",
+                          "options":  [
+                                          {
+                                              "text":  "A existência de um acidente na via.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA existência de um acidente na via.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "A existência de uma oficina.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA existência de uma oficina.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "A existência de uma berma baixa do lado esquerdo.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA existência de uma berma baixa do lado esquerdo.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  14,
+                          "slideId":  "{F3B09E1D-580A-48EC-A3F6-1E41AC51088B}",
+                          "type":  "MultipleChoice",
+                          "question":  "O que indica o sinal?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que indica o sinal?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-9c73-12c2-f9f9-4a1b.png",
+                          "imageRelativePath":  "data/images/img-9c73-12c2-f9f9-4a1b.png",
+                          "options":  [
+                                          {
+                                              "text":  "A existência de uma berma baixa à direita.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA existência de uma berma baixa à direita.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "A existência de uma berma baixa à esquerda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA existência de uma berma baixa à esquerda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "A existência de um terreno falso à direita.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA existência de um terreno falso à direita.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  15,
+                          "slideId":  "{DA494544-B029-4904-9751-D46588553497}",
+                          "type":  "MultipleChoice",
+                          "question":  "O que indica o sinal de interesse turístico?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que indica o sinal de interesse turístico?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-5dad-ea22-bcea-575b.jpg",
+                          "imageRelativePath":  "data/images/img-5dad-ea22-bcea-575b.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Reserva florestal.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eReserva florestal.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Parque de campismo.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eParque de campismo.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Lugar histórico e genérico.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eLugar histórico e genérico.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  16,
+                          "slideId":  "{A82C1888-23EC-40C5-848A-D793EFA21432}",
+                          "type":  "MultipleChoice",
+                          "question":  "O sinal indica:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO sinal indica:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-5ecd-d92f-708d-b606.png",
+                          "imageRelativePath":  "data/images/img-5ecd-d92f-708d-b606.png",
+                          "options":  [
+                                          {
+                                              "text":  "Estacionamento condicionado.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eEstacionamento condicionado.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Estacionamento proibido",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eEstacionamento proibido\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Estacionamento limitado.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eEstacionamento limitado.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  17,
+                          "slideId":  "{CF25775F-1191-48F5-BEF7-EDCD9668A7DC}",
+                          "type":  "MultipleChoice",
+                          "question":  "O que indica o sinal?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que indica o sinal?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-d70f-9429-dc27-78f2.png",
+                          "imageRelativePath":  "data/images/img-d70f-9429-dc27-78f2.png",
+                          "options":  [
+                                          {
+                                              "text":  "Prioridade nas passagens estreitas.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePrioridade nas passagens estreitas.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Dar prioridade nas passagens estreitas.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eDar prioridade nas passagens estreitas.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Trânsito nos dois sentidos.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eTrânsito nos dois sentidos.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  18,
+                          "slideId":  "{C2DAF1D9-1CED-4C55-A318-27FECA2FCB16}",
+                          "type":  "MultipleChoice",
+                          "question":  "O que indica o sinal?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que indica o sinal?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-0d8c-9d54-ceb2-3be6.png",
+                          "imageRelativePath":  "data/images/img-0d8c-9d54-ceb2-3be6.png",
+                          "options":  [
+                                          {
+                                              "text":  "Local de passagem de nível sem guarda com duas ou mais vias.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eLocal de passagem de nível sem guarda com duas ou mais vias.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Local de passagem de nível sem guarda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eLocal de passagem de nível sem guarda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Passagem de nível.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePassagem de nível.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  19,
+                          "slideId":  "{5C9DFBAF-7933-494B-8673-55D6B8E1B19F}",
+                          "type":  "MultipleChoice",
+                          "question":  "O que indica o sinal?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que indica o sinal?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-35e4-b149-4c47-ddb4.jpg",
+                          "imageRelativePath":  "data/images/img-35e4-b149-4c47-ddb4.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Parque de estacionamento para veículos de emergência.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eParque de estacionamento para veículos de emergência.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Parque de estacionamento para miniautocarros.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eParque de estacionamento para miniautocarros.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Parque de estacionamento para veículos com altura acima do normal.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eParque de estacionamento para veículos com altura acima do normal.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  20,
+                          "slideId":  "{2D1DA8A5-59A5-42AA-B907-FCDFA8812961}",
+                          "type":  "MultipleChoice",
+                          "question":  "O que indica o sinal complementar de perigo?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que indica o sinal complementar de perigo?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-e28c-25c7-9217-dc22.png",
+                          "imageRelativePath":  "data/images/img-e28c-25c7-9217-dc22.png",
+                          "options":  [
+                                          {
+                                              "text":  "Baia indicadora de direcção a direita.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eBaia indicadora de direcção a direita.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Baia direcional para a direita.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eBaia direcional para a direita.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Baia direcional para a esquerda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eBaia direcional para a esquerda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  21,
+                          "slideId":  "{F8A6319B-7052-49A0-8F24-6935E8781B44}",
+                          "type":  "MultipleChoice",
+                          "question":  "O que indica o sinal de informação?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que indica o sinal de informação?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-acd3-349e-1286-28fd.png",
+                          "imageRelativePath":  "data/images/img-acd3-349e-1286-28fd.png",
+                          "options":  [
+                                          {
+                                              "text":  "Área reservada para automóveis ligeiros.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eÁrea reservada para automóveis ligeiros.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Área reservada para táxis.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eÁrea reservada para táxis.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Parque de estacionamento para automóveis ligeiros de passageiros.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eParque de estacionamento para automóveis ligeiros de passageiros.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  22,
+                          "slideId":  "{E716C810-999D-46FA-90EB-9CE78FFE5287}",
+                          "type":  "MultipleChoice",
+                          "question":  "O que indica o sinal?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que indica o sinal?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-bed7-d179-b288-9873.png",
+                          "imageRelativePath":  "data/images/img-bed7-d179-b288-9873.png",
+                          "options":  [
+                                          {
+                                              "text":  "Indica a existência de uma área reservada para veículos da Policia.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eIndica a existência de uma área reservada para veículos da Policia.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Indica a existência de uma faixa reservada para o estacionamento de veículos da Policia do lado esquerdo.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eIndica a existência de uma faixa reservada para o estacionamento de veículos da Policia do lado esquerdo.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Indica a existência de um parque de estacionamento para veículos da Policia.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eIndica a existência de um parque de estacionamento para veículos da Policia.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  23,
+                          "slideId":  "{557DDE5D-632C-4E6A-AB59-DAF97252C16E}",
+                          "type":  "MultipleChoice",
+                          "question":  "O sinal da fotografia proíbe:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO sinal da fotografia proíbe:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-6aba-3b80-0304-06b2.png",
+                          "imageRelativePath":  "data/images/img-6aba-3b80-0304-06b2.png",
+                          "options":  [
+                                          {
+                                              "text":  "A presença de vendedores.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA presença de vendedores.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "A presença de peões e veículos não automóveis.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA presença de peões e veículos não automóveis.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "A presença de turistas.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA presença de turistas.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  24,
+                          "slideId":  "{35031E6C-B6E2-4236-A9DB-E7BDD7956593}",
+                          "type":  "MultipleChoice",
+                          "question":  "O que indica o sinal circular?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que indica o sinal circular?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-afaf-dbdb-afb0-d37d.png",
+                          "imageRelativePath":  "data/images/img-afaf-dbdb-afb0-d37d.png",
+                          "options":  [
+                                          {
+                                              "text":  "Proibição de ultrapassagem para motociclos simples.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eProibição de ultrapassagem para motociclos simples.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Tránsito proibido para todos os veículos automóveis.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eTránsito proibido para todos os veículos automóveis.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Proibição de ultrapassagem para automóveis ligeiros.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eProibição de ultrapassagem para automóveis ligeiros.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  25,
+                          "slideId":  "{D5EFD3A4-0F12-4A41-909E-439BB5B18B37}",
+                          "type":  "MultipleChoice",
+                          "question":  "Este sinal indica:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eEste sinal indica:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-30a3-65b4-046d-10ca.png",
+                          "imageRelativePath":  "data/images/img-30a3-65b4-046d-10ca.png",
+                          "options":  [
+                                          {
+                                              "text":  "Que existe um cruzamento com estrada sem prioridade.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eQue existe um cruzamento com estrada sem prioridade.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Que existe um cruzamento com estrada com prioridade.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eQue existe um cruzamento com estrada com prioridade.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Obrigação de ceder a passagem.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_25551\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eObrigação de ceder a passagem.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      }
+                  ]
+}

@@ -1,0 +1,831 @@
+﻿[
+    {
+        "tier":  "free",
+        "packages":  [
+                         {
+                             "bundle":  "demo",
+                             "tier":  "free",
+                             "category":  "cde",
+                             "unit":  "cde1",
+                             "title":  "Código da Estrada",
+                             "questionCount":  25,
+                             "outFile":  "demo/cde1/content.json"
+                         },
+                         {
+                             "bundle":  "demo",
+                             "tier":  "free",
+                             "category":  "cde",
+                             "unit":  "cde2",
+                             "title":  "Código da Estrada",
+                             "questionCount":  25,
+                             "outFile":  "demo/cde2/content.json"
+                         },
+                         {
+                             "bundle":  "demo",
+                             "tier":  "free",
+                             "category":  "exame",
+                             "unit":  "exame1",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "demo/exame1/content.json"
+                         },
+                         {
+                             "bundle":  "demo",
+                             "tier":  "free",
+                             "category":  "exame",
+                             "unit":  "exame2",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "demo/exame2/content.json"
+                         },
+                         {
+                             "bundle":  "demo",
+                             "tier":  "free",
+                             "category":  "revisao",
+                             "unit":  "revisao",
+                             "title":  "EDC MZ",
+                             "questionCount":  25,
+                             "outFile":  "demo/revisao/content.json"
+                         },
+                         {
+                             "bundle":  "demo",
+                             "tier":  "free",
+                             "category":  "sdt",
+                             "unit":  "sdt1",
+                             "title":  "Sinais de Trânsito",
+                             "questionCount":  25,
+                             "outFile":  "demo/sdt1/content.json"
+                         },
+                         {
+                             "bundle":  "demo",
+                             "tier":  "free",
+                             "category":  "sdt",
+                             "unit":  "sdt2",
+                             "title":  "Sinais de Trânsito",
+                             "questionCount":  25,
+                             "outFile":  "demo/sdt2/content.json"
+                         }
+                     ]
+    },
+    {
+        "tier":  "paid",
+        "packages":  [
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "cde",
+                             "unit":  "cde1",
+                             "title":  "Código da Estrada",
+                             "questionCount":  25,
+                             "outFile":  "lp/cde1/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "cde",
+                             "unit":  "cde10",
+                             "title":  "Código da Estrada",
+                             "questionCount":  25,
+                             "outFile":  "lp/cde10/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "cde",
+                             "unit":  "cde11",
+                             "title":  "Código da Estrada",
+                             "questionCount":  25,
+                             "outFile":  "lp/cde11/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "cde",
+                             "unit":  "cde12",
+                             "title":  "Código da Estrada",
+                             "questionCount":  25,
+                             "outFile":  "lp/cde12/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "cde",
+                             "unit":  "cde13",
+                             "title":  "Código da Estrada",
+                             "questionCount":  25,
+                             "outFile":  "lp/cde13/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "cde",
+                             "unit":  "cde14",
+                             "title":  "Código da Estrada",
+                             "questionCount":  25,
+                             "outFile":  "lp/cde14/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "cde",
+                             "unit":  "cde15",
+                             "title":  "Código da Estrada",
+                             "questionCount":  25,
+                             "outFile":  "lp/cde15/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "cde",
+                             "unit":  "cde16",
+                             "title":  "Código da Estrada",
+                             "questionCount":  25,
+                             "outFile":  "lp/cde16/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "cde",
+                             "unit":  "cde17",
+                             "title":  "Código da Estrada",
+                             "questionCount":  25,
+                             "outFile":  "lp/cde17/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "cde",
+                             "unit":  "cde18",
+                             "title":  "Código da Estrada",
+                             "questionCount":  10,
+                             "outFile":  "lp/cde18/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "cde",
+                             "unit":  "cde2",
+                             "title":  "Código da Estrada",
+                             "questionCount":  25,
+                             "outFile":  "lp/cde2/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "cde",
+                             "unit":  "cde3",
+                             "title":  "Código da Estrada",
+                             "questionCount":  25,
+                             "outFile":  "lp/cde3/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "cde",
+                             "unit":  "cde4",
+                             "title":  "Código da Estrada",
+                             "questionCount":  25,
+                             "outFile":  "lp/cde4/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "cde",
+                             "unit":  "cde5",
+                             "title":  "Código da Estrada",
+                             "questionCount":  25,
+                             "outFile":  "lp/cde5/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "cde",
+                             "unit":  "cde6",
+                             "title":  "Código da Estrada",
+                             "questionCount":  25,
+                             "outFile":  "lp/cde6/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "cde",
+                             "unit":  "cde7",
+                             "title":  "Código da Estrada",
+                             "questionCount":  25,
+                             "outFile":  "lp/cde7/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "cde",
+                             "unit":  "cde8",
+                             "title":  "Código da Estrada",
+                             "questionCount":  25,
+                             "outFile":  "lp/cde8/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "cde",
+                             "unit":  "cde9",
+                             "title":  "Código da Estrada",
+                             "questionCount":  25,
+                             "outFile":  "lp/cde9/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame1",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "lp/exame1/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame10",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "lp/exame10/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame11",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "lp/exame11/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame12",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "lp/exame12/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame13",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "lp/exame13/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame14",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "lp/exame14/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame15",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "lp/exame15/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame16",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "lp/exame16/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame17",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "lp/exame17/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame18",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "lp/exame18/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame19",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "lp/exame19/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame2",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "lp/exame2/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame20",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "lp/exame20/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame21",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "lp/exame21/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame22",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "lp/exame22/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame23",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "lp/exame23/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame24",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "lp/exame24/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame25",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "lp/exame25/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame26",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "lp/exame26/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame27",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "lp/exame27/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame28",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "lp/exame28/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame3",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "lp/exame3/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame4",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "lp/exame4/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame5",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "lp/exame5/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame6",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "lp/exame6/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame7",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "lp/exame7/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame8",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "lp/exame8/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame9",
+                             "title":  "Exames Predefinidos",
+                             "questionCount":  25,
+                             "outFile":  "lp/exame9/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "revisao",
+                             "unit":  "revisao",
+                             "title":  "EDC MZ",
+                             "questionCount":  21,
+                             "outFile":  "lp/revisao/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "sdt",
+                             "unit":  "sdt1",
+                             "title":  "Sinais de Trânsito",
+                             "questionCount":  25,
+                             "outFile":  "lp/sdt1/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "sdt",
+                             "unit":  "sdt10",
+                             "title":  "Sinais de Trânsito",
+                             "questionCount":  25,
+                             "outFile":  "lp/sdt10/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "sdt",
+                             "unit":  "sdt11",
+                             "title":  "Sinais de Trânsito",
+                             "questionCount":  15,
+                             "outFile":  "lp/sdt11/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "sdt",
+                             "unit":  "sdt12",
+                             "title":  "Sinais de Trânsito",
+                             "questionCount":  25,
+                             "outFile":  "lp/sdt12/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "sdt",
+                             "unit":  "sdt2",
+                             "title":  "Sinais de Trânsito",
+                             "questionCount":  25,
+                             "outFile":  "lp/sdt2/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "sdt",
+                             "unit":  "sdt3",
+                             "title":  "Sinais de Trânsito",
+                             "questionCount":  25,
+                             "outFile":  "lp/sdt3/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "sdt",
+                             "unit":  "sdt4",
+                             "title":  "Sinais de Trânsito",
+                             "questionCount":  25,
+                             "outFile":  "lp/sdt4/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "sdt",
+                             "unit":  "sdt5",
+                             "title":  "Sinais de Trânsito",
+                             "questionCount":  25,
+                             "outFile":  "lp/sdt5/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "sdt",
+                             "unit":  "sdt6",
+                             "title":  "Sinais de Trânsito",
+                             "questionCount":  25,
+                             "outFile":  "lp/sdt6/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "sdt",
+                             "unit":  "sdt7",
+                             "title":  "Sinais de Trânsito",
+                             "questionCount":  25,
+                             "outFile":  "lp/sdt7/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "sdt",
+                             "unit":  "sdt8",
+                             "title":  "Sinais de Trânsito",
+                             "questionCount":  25,
+                             "outFile":  "lp/sdt8/content.json"
+                         },
+                         {
+                             "bundle":  "lp",
+                             "tier":  "paid",
+                             "category":  "sdt",
+                             "unit":  "sdt9",
+                             "title":  "Sinais de Trânsito",
+                             "questionCount":  25,
+                             "outFile":  "lp/sdt9/content.json"
+                         },
+                         {
+                             "bundle":  "pro",
+                             "tier":  "paid",
+                             "category":  "cg",
+                             "unit":  "cg1",
+                             "title":  "Sinais de Trânsito",
+                             "questionCount":  25,
+                             "outFile":  "pro/cg1/content.json"
+                         },
+                         {
+                             "bundle":  "pro",
+                             "tier":  "paid",
+                             "category":  "cg",
+                             "unit":  "cg2",
+                             "title":  "Sinais de Trânsito",
+                             "questionCount":  25,
+                             "outFile":  "pro/cg2/content.json"
+                         },
+                         {
+                             "bundle":  "pro",
+                             "tier":  "paid",
+                             "category":  "cg",
+                             "unit":  "cg3",
+                             "title":  "Sinais de Trânsito",
+                             "questionCount":  25,
+                             "outFile":  "pro/cg3/content.json"
+                         },
+                         {
+                             "bundle":  "pro",
+                             "tier":  "paid",
+                             "category":  "cg",
+                             "unit":  "cg4",
+                             "title":  "Sinais de Trânsito",
+                             "questionCount":  25,
+                             "outFile":  "pro/cg4/content.json"
+                         },
+                         {
+                             "bundle":  "pro",
+                             "tier":  "paid",
+                             "category":  "cg",
+                             "unit":  "cg5",
+                             "title":  "Sinais de Trânsito",
+                             "questionCount":  25,
+                             "outFile":  "pro/cg5/content.json"
+                         },
+                         {
+                             "bundle":  "pro",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame1",
+                             "title":  "EDC MZ",
+                             "questionCount":  25,
+                             "outFile":  "pro/exame1/content.json"
+                         },
+                         {
+                             "bundle":  "pro",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame10",
+                             "title":  "EDC MZ",
+                             "questionCount":  25,
+                             "outFile":  "pro/exame10/content.json"
+                         },
+                         {
+                             "bundle":  "pro",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame11",
+                             "title":  "EDC MZ",
+                             "questionCount":  25,
+                             "outFile":  "pro/exame11/content.json"
+                         },
+                         {
+                             "bundle":  "pro",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame12",
+                             "title":  "EDC MZ",
+                             "questionCount":  25,
+                             "outFile":  "pro/exame12/content.json"
+                         },
+                         {
+                             "bundle":  "pro",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame2",
+                             "title":  "EDC MZ",
+                             "questionCount":  25,
+                             "outFile":  "pro/exame2/content.json"
+                         },
+                         {
+                             "bundle":  "pro",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame3",
+                             "title":  "EDC MZ",
+                             "questionCount":  25,
+                             "outFile":  "pro/exame3/content.json"
+                         },
+                         {
+                             "bundle":  "pro",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame4",
+                             "title":  "EDC MZ",
+                             "questionCount":  25,
+                             "outFile":  "pro/exame4/content.json"
+                         },
+                         {
+                             "bundle":  "pro",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame5",
+                             "title":  "EDC MZ",
+                             "questionCount":  25,
+                             "outFile":  "pro/exame5/content.json"
+                         },
+                         {
+                             "bundle":  "pro",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame6",
+                             "title":  "EDC MZ",
+                             "questionCount":  25,
+                             "outFile":  "pro/exame6/content.json"
+                         },
+                         {
+                             "bundle":  "pro",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame7",
+                             "title":  "EDC MZ",
+                             "questionCount":  25,
+                             "outFile":  "pro/exame7/content.json"
+                         },
+                         {
+                             "bundle":  "pro",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame8",
+                             "title":  "EDC MZ",
+                             "questionCount":  25,
+                             "outFile":  "pro/exame8/content.json"
+                         },
+                         {
+                             "bundle":  "pro",
+                             "tier":  "paid",
+                             "category":  "exame",
+                             "unit":  "exame9",
+                             "title":  "EDC MZ",
+                             "questionCount":  25,
+                             "outFile":  "pro/exame9/content.json"
+                         },
+                         {
+                             "bundle":  "pro",
+                             "tier":  "paid",
+                             "category":  "mec",
+                             "unit":  "mec1",
+                             "title":  "Sinais de Trânsito",
+                             "questionCount":  25,
+                             "outFile":  "pro/mec1/content.json"
+                         },
+                         {
+                             "bundle":  "pro",
+                             "tier":  "paid",
+                             "category":  "mec",
+                             "unit":  "mec2",
+                             "title":  "Sinais de Trânsito",
+                             "questionCount":  25,
+                             "outFile":  "pro/mec2/content.json"
+                         },
+                         {
+                             "bundle":  "pro",
+                             "tier":  "paid",
+                             "category":  "mec",
+                             "unit":  "mec3",
+                             "title":  "Sinais de Trânsito",
+                             "questionCount":  25,
+                             "outFile":  "pro/mec3/content.json"
+                         },
+                         {
+                             "bundle":  "pro",
+                             "tier":  "paid",
+                             "category":  "mec",
+                             "unit":  "mec4",
+                             "title":  "Sinais de Trânsito",
+                             "questionCount":  25,
+                             "outFile":  "pro/mec4/content.json"
+                         },
+                         {
+                             "bundle":  "pro",
+                             "tier":  "paid",
+                             "category":  "mec",
+                             "unit":  "mec5",
+                             "title":  "Sinais de Trânsito",
+                             "questionCount":  25,
+                             "outFile":  "pro/mec5/content.json"
+                         },
+                         {
+                             "bundle":  "pro",
+                             "tier":  "paid",
+                             "category":  "mec",
+                             "unit":  "mec6",
+                             "title":  "Sinais de Trânsito",
+                             "questionCount":  25,
+                             "outFile":  "pro/mec6/content.json"
+                         },
+                         {
+                             "bundle":  "pro",
+                             "tier":  "paid",
+                             "category":  "mec",
+                             "unit":  "mec7",
+                             "title":  "Sinais de Trânsito",
+                             "questionCount":  25,
+                             "outFile":  "pro/mec7/content.json"
+                         },
+                         {
+                             "bundle":  "pro",
+                             "tier":  "paid",
+                             "category":  "revisao",
+                             "unit":  "revisao",
+                             "title":  "EDC MZ",
+                             "questionCount":  12,
+                             "outFile":  "pro/revisao/content.json"
+                         }
+                     ]
+    }
+]

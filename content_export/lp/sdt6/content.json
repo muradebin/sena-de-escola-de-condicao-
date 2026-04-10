@@ -1,0 +1,709 @@
+﻿{
+    "bundle":  "lp",
+    "tier":  "paid",
+    "category":  "sdt",
+    "unit":  "sdt6",
+    "title":  "Sinais de Trânsito",
+    "indexHtml":  "E:\\Programas\\Para ver uma sena\\1\\assets\\flutter_assets\\assets\\lp\\www\\sdt6\\index.html",
+    "questionCount":  25,
+    "usedImages":  [
+                       "data/images/img-05f0-5a49-2036-caab.png",
+                       "data/images/img-1078-bf07-d5c7-7204.png",
+                       "data/images/img-2a1d-1f48-89c3-16de.png",
+                       "data/images/img-2ce0-df16-03b5-5ae3.png",
+                       "data/images/img-2e68-254f-743f-4666.png",
+                       "data/images/img-3ad0-2d2e-2c8d-3c14.png",
+                       "data/images/img-3d56-c31d-5243-745b.png",
+                       "data/images/img-5bc9-8d1a-af87-7e4e.png",
+                       "data/images/img-71f2-21eb-43fb-6cf6.png",
+                       "data/images/img-7304-96a8-5484-08f5.png",
+                       "data/images/img-739f-6112-f388-5a20.png",
+                       "data/images/img-8718-bd0a-33ac-191c.png",
+                       "data/images/img-98a9-7cbc-e43f-c5f8.png",
+                       "data/images/img-a7d9-20ca-4f97-cc14.png",
+                       "data/images/img-b3ad-1945-8f83-eff9.png",
+                       "data/images/img-c286-bfdc-f620-b53f.png",
+                       "data/images/img-ce55-aa6f-f956-0be4.png",
+                       "data/images/img-cef1-edd8-617c-b8a2.png",
+                       "data/images/img-de14-71aa-18ec-1c52.png",
+                       "data/images/img-def3-d7eb-9c8e-a610.png",
+                       "data/images/img-e5fd-5b1e-b3e5-5fbf.png"
+                   ],
+    "availableImages":  [
+                            "img-05f0-5a49-2036-caab.png",
+                            "img-1078-bf07-d5c7-7204.png",
+                            "img-2a1d-1f48-89c3-16de.png",
+                            "img-2ce0-df16-03b5-5ae3.png",
+                            "img-2e68-254f-743f-4666.png",
+                            "img-3ad0-2d2e-2c8d-3c14.png",
+                            "img-3d56-c31d-5243-745b.png",
+                            "img-5bc9-8d1a-af87-7e4e.png",
+                            "img-648a-0bf1-7ac3-4226.png",
+                            "img-71f2-21eb-43fb-6cf6.png",
+                            "img-7304-96a8-5484-08f5.png",
+                            "img-739f-6112-f388-5a20.png",
+                            "img-8718-bd0a-33ac-191c.png",
+                            "img-98a9-7cbc-e43f-c5f8.png",
+                            "img-9bdf-ce78-522e-6d1e.png",
+                            "img-a7d9-20ca-4f97-cc14.png",
+                            "img-b3ad-1945-8f83-eff9.png",
+                            "img-c286-bfdc-f620-b53f.png",
+                            "img-ce55-aa6f-f956-0be4.png",
+                            "img-cef1-edd8-617c-b8a2.png",
+                            "img-de14-71aa-18ec-1c52.png",
+                            "img-def3-d7eb-9c8e-a610.png",
+                            "img-e5fd-5b1e-b3e5-5fbf.png"
+                        ],
+    "questions":  [
+                      {
+                          "n":  1,
+                          "slideId":  "{97E62822-1A8C-4D09-951B-3E3633F2B8F1}",
+                          "type":  "MultipleChoice",
+                          "question":  "Posso circular a velocidade superior a 40 Km/h nesta estrada?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePosso circular a velocidade superior a 40 Km/h nesta estrada?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-def3-d7eb-9c8e-a610.png",
+                          "imageRelativePath":  "data/images/img-def3-d7eb-9c8e-a610.png",
+                          "options":  [
+                                          {
+                                              "text":  "Não, o sinal indica-me entrada numa zona em que a velocidade está limitada à indicada no sinal.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eNão, o sinal indica-me entrada numa zona em que a velocidade está limitada à indicada no sinal.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Sim, o sinal indica-me a entrada numa zona de velocidade recomendada superior a 40 Km/h.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSim, o sinal indica-me a entrada numa zona de velocidade recomendada superior a 40 Km/h.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Sim, o sinal indica-me que terminou a zona de velocidade limitada a 40 Km/h.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSim, o sinal indica-me que terminou a zona de velocidade limitada a 40 Km/h.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  2,
+                          "slideId":  "{614FE3A0-A359-4FED-8E51-41D41F67DD40}",
+                          "type":  "MultipleChoice",
+                          "question":  "O que indica o sinal?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que indica o sinal?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-71f2-21eb-43fb-6cf6.png",
+                          "imageRelativePath":  "data/images/img-71f2-21eb-43fb-6cf6.png",
+                          "options":  [
+                                          {
+                                              "text":  "Início de estrada alcatroada.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eInício de estrada alcatroada.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Fim de estrada alcatroada.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eFim de estrada alcatroada.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Visibilidade reduzida.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eVisibilidade reduzida.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  3,
+                          "slideId":  "{DC0D615E-3C7E-4B81-9052-313195407B79}",
+                          "type":  "MultipleChoice",
+                          "question":  "O sinal informa-me que na via de trânsito mais à direita devo:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO sinal informa-me que na via de trânsito mais à direita devo:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-a7d9-20ca-4f97-cc14.png",
+                          "imageRelativePath":  "data/images/img-a7d9-20ca-4f97-cc14.png",
+                          "options":  [
+                                          {
+                                              "text":  "Circular á velocidade mínima de 80 km/h.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCircular á velocidade mínima de 80 km/h.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Circular à velocidade constante de 80 km/h.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCircular à velocidade constante de 80 km/h.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Circular a menos de 80 Km/h.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCircular a menos de 80 Km/h.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  4,
+                          "slideId":  "{D5DAA2B0-F0BE-479F-B39B-CE2AA371DF94}",
+                          "type":  "MultipleChoice",
+                          "question":  "O sinal vertical indica:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO sinal vertical indica:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-cef1-edd8-617c-b8a2.png",
+                          "imageRelativePath":  "data/images/img-cef1-edd8-617c-b8a2.png",
+                          "options":  [
+                                          {
+                                              "text":  "O fim do limite máximo de velocidade.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO fim do limite máximo de velocidade.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "O limite de velocidade recomendado para toda a faixa de rodagem.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO limite de velocidade recomendado para toda a faixa de rodagem.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "O limite mínimo de velocidade, para aquela zona.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO limite mínimo de velocidade, para aquela zona.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  5,
+                          "slideId":  "{B6B9F321-B029-400E-9C2F-32482AC515AB}",
+                          "type":  "MultipleChoice",
+                          "question":  "Se circular com um automóvel ligeiro de mercadorias posso seguir em frente?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSe circular com um automóvel ligeiro de mercadorias posso seguir em frente?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-b3ad-1945-8f83-eff9.png",
+                          "imageRelativePath":  "data/images/img-b3ad-1945-8f83-eff9.png",
+                          "options":  [
+                                          {
+                                              "text":  "Não, o sinal proíbe a circulação de automóveis ligeiros e pesados de mercadorias.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eNão, o sinal proíbe a circulação de automóveis ligeiros e pesados de mercadorias.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Sim, o sinal apenas proíbe a passagem de automóveis pesados de mercadorias.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSim, o sinal apenas proíbe a passagem de automóveis pesados de mercadorias.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Sim, o sinal indica zona de estacionamento proibido a automóveis pesados de mercadorias.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSim, o sinal indica zona de estacionamento proibido a automóveis pesados de mercadorias.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  6,
+                          "slideId":  "{68B30A54-57AE-4C80-8D10-6EF95436DE0B}",
+                          "type":  "MultipleChoice",
+                          "question":  "O que significa o sinal vertical de forma triangular?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que significa o sinal vertical de forma triangular?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-e5fd-5b1e-b3e5-5fbf.png",
+                          "imageRelativePath":  "data/images/img-e5fd-5b1e-b3e5-5fbf.png",
+                          "options":  [
+                                          {
+                                              "text":  "Aproximação de rotunda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eAproximação de rotunda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Obrigação de contornar placa ou obstáculo.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eObrigação de contornar placa ou obstáculo.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Rotunda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eRotunda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  7,
+                          "slideId":  "{FCDCAF48-E074-4E7E-9F47-3DC85AE30272}",
+                          "type":  "MultipleChoice",
+                          "question":  "Este sinal indica:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eEste sinal indica:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-ce55-aa6f-f956-0be4.png",
+                          "imageRelativePath":  "data/images/img-ce55-aa6f-f956-0be4.png",
+                          "options":  [
+                                          {
+                                              "text":  "Que existe um cruzamento com estrada com prioridade.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eQue existe um cruzamento com estrada com prioridade.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Que existe um cruzamento com estrada sem prioridade.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eQue existe um cruzamento com estrada sem prioridade.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Obrigação de ceder a passagem.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eObrigação de ceder a passagem.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  8,
+                          "slideId":  "{804272B5-5DAB-4313-93A0-E21EE8335365}",
+                          "type":  "MultipleChoice",
+                          "question":  "O sinal vertical proíbe o trânsito:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO sinal vertical proíbe o trânsito:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-b3ad-1945-8f83-eff9.png",
+                          "imageRelativePath":  "data/images/img-b3ad-1945-8f83-eff9.png",
+                          "options":  [
+                                          {
+                                              "text":  "Aos automóveis ligeiros e pesados de mercadorias.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eAos automóveis ligeiros e pesados de mercadorias.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "A todos os automóveis pesados.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA todos os automóveis pesados.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Apenas aos automóveis pesados de mercadorias.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eApenas aos automóveis pesados de mercadorias.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  9,
+                          "slideId":  "{04BB19E0-5056-4D36-A91B-2C6F4A7214CA}",
+                          "type":  "MultipleChoice",
+                          "question":  "O que significa o sinal vertical triangular?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que significa o sinal vertical triangular?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-2a1d-1f48-89c3-16de.png",
+                          "imageRelativePath":  "data/images/img-2a1d-1f48-89c3-16de.png",
+                          "options":  [
+                                          {
+                                              "text":  "Cruzamento com estrada sem prioridade.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCruzamento com estrada sem prioridade.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Entroncamento com estrada com prioridade.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eEntroncamento com estrada com prioridade.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Cruzamento com estrada com prioridade.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCruzamento com estrada com prioridade.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  10,
+                          "slideId":  "{9CB842DF-2978-4792-9240-DC0CCD9C8E5F}",
+                          "type":  "MultipleChoice",
+                          "question":  "Devo circular na via de trânsito mais à direita?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eDevo circular na via de trânsito mais à direita?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-a7d9-20ca-4f97-cc14.png",
+                          "imageRelativePath":  "data/images/img-a7d9-20ca-4f97-cc14.png",
+                          "options":  [
+                                          {
+                                              "text":  "Sim, excepto para ultrapassar.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSim, excepto para ultrapassar.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  " Não, se circular a 80 km/h.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e​\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003e Não, se circular a 80 km/h.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  " Não, se circular a 100 km/h.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e​\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003e Não, se circular a 100 km/h.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  11,
+                          "slideId":  "{621F5B59-E286-44E2-932B-EE22BCF655D0}",
+                          "type":  "MultipleChoice",
+                          "question":  "Perante este sinal devo:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePerante este sinal devo:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-739f-6112-f388-5a20.png",
+                          "imageRelativePath":  "data/images/img-739f-6112-f388-5a20.png",
+                          "options":  [
+                                          {
+                                              "text":  "Dar prioridade nas passagens estreitas.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eDar prioridade nas passagens estreitas.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Avançar, porque o trânsito se faz em simultâneo nos dois sentidos.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eAvançar, porque o trânsito se faz em simultâneo nos dois sentidos.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Avançar, porque tenho prioridade.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eAvançar, porque tenho prioridade.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  12,
+                          "slideId":  "{BD64940F-D3C2-45CF-9BE7-0F91A9BCE6C3}",
+                          "type":  "MultipleChoice",
+                          "question":  "Este sinal é de:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eEste sinal é de:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-3ad0-2d2e-2c8d-3c14.png",
+                          "imageRelativePath":  "data/images/img-3ad0-2d2e-2c8d-3c14.png",
+                          "options":  [
+                                          {
+                                              "text":  "Cedência de passagem.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCedência de passagem.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Informação.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eInformação.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  " Selecção de vias.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e​\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003e Selecção de vias.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  13,
+                          "slideId":  "{8F2F4D3B-72E7-41F4-80BC-DC2EA6C7D845}",
+                          "type":  "MultipleChoice",
+                          "question":  "O sinal vertical indica-me que:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO sinal vertical indica-me que:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-2ce0-df16-03b5-5ae3.png",
+                          "imageRelativePath":  "data/images/img-2ce0-df16-03b5-5ae3.png",
+                          "options":  [
+                                          {
+                                              "text":  "A via pública passa a ter trânsito nos dois sentidos.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA via pública passa a ter trânsito nos dois sentidos.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Não tenho prioridade no próximo estreitamento da faixa de rodagem.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eNão tenho prioridade no próximo estreitamento da faixa de rodagem.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "O trânsito passa a fazer-se apenas num sentido.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO trânsito passa a fazer-se apenas num sentido.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  14,
+                          "slideId":  "{BA0D3421-9FF8-44D7-8417-A728DFC82F15}",
+                          "type":  "MultipleChoice",
+                          "question":  "O sinal vertical que se encontra nesta via pública indica-me que:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO sinal vertical que se encontra nesta via pública indica-me que:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-739f-6112-f388-5a20.png",
+                          "imageRelativePath":  "data/images/img-739f-6112-f388-5a20.png",
+                          "options":  [
+                                          {
+                                              "text":  "Devo ceder a passagem ao veículo que transita em sentido contrário.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eDevo ceder a passagem ao veículo que transita em sentido contrário.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "A via pública tem dois sentidos de trânsito.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA via pública tem dois sentidos de trânsito.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Tenho prioridade de passagem.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eTenho prioridade de passagem.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  15,
+                          "slideId":  "{D24958FC-2607-4652-801F-9F8139230CC1}",
+                          "type":  "MultipleChoice",
+                          "question":  "Perante este sinal:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePerante este sinal:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-de14-71aa-18ec-1c52.png",
+                          "imageRelativePath":  "data/images/img-de14-71aa-18ec-1c52.png",
+                          "options":  [
+                                          {
+                                              "text":  "Devo ceder a passagem a todos e quaisquer veículos que transitem na via que se aproxima.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eDevo ceder a passagem a todos e quaisquer veículos que transitem na via que se aproxima.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "No próximo entroncamento, estou obrigado a ceder a passagem apenas aos automóveis.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eNo próximo entroncamento, estou obrigado a ceder a passagem apenas aos automóveis.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Tenho prioridade de passagem sobre os veículos sem motor que circulam na via que se aproxima.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eTenho prioridade de passagem sobre os veículos sem motor que circulam na via que se aproxima.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  16,
+                          "slideId":  "{3540C9F8-4CCA-4903-9D7B-A327566AE78F}",
+                          "type":  "MultipleChoice",
+                          "question":  "O sinal vertical indica:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO sinal vertical indica:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-7304-96a8-5484-08f5.png",
+                          "imageRelativePath":  "data/images/img-7304-96a8-5484-08f5.png",
+                          "options":  [
+                                          {
+                                              "text":  "Estacionamento proibido.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eEstacionamento proibido.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Local de paragem proibida ",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eLocal de paragem proibida \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Zona de paragem e estacionamento limitado.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eZona de paragem e estacionamento limitado.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  17,
+                          "slideId":  "{D89F73C0-CADD-49D5-A163-211EFD1DF54A}",
+                          "type":  "MultipleChoice",
+                          "question":  "O que significa o sinal vertical?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que significa o sinal vertical?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-c286-bfdc-f620-b53f.png",
+                          "imageRelativePath":  "data/images/img-c286-bfdc-f620-b53f.png",
+                          "options":  [
+                                          {
+                                              "text":  "Paragem e estacionamento proibidos",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eParagem e estacionamento proibidos\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Apenas a paragem é proibida.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eApenas a paragem é proibida.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Apenas o estacionamento é proibido.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eApenas o estacionamento é proibido.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  18,
+                          "slideId":  "{151E82C8-8EA7-49E9-984F-E12A21FA6E3D}",
+                          "type":  "MultipleChoice",
+                          "question":  "O sinal de cedência de passagem indica:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO sinal de cedência de passagem indica:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-3d56-c31d-5243-745b.png",
+                          "imageRelativePath":  "data/images/img-3d56-c31d-5243-745b.png",
+                          "options":  [
+                                          {
+                                              "text":  "Paragem obrigatória.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eParagem obrigatória.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Trânsito proibido.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eTrânsito proibido.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Sentido proibido.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSentido proibido.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  19,
+                          "slideId":  "{1FBFFBB1-1275-4D00-BD2D-F9DA2A0C1926}",
+                          "type":  "MultipleChoice",
+                          "question":  "Perante este sinal devo circular com velocidade moderada?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePerante este sinal devo circular com velocidade moderada?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-98a9-7cbc-e43f-c5f8.png",
+                          "imageRelativePath":  "data/images/img-98a9-7cbc-e43f-c5f8.png",
+                          "options":  [
+                                          {
+                                              "text":  "Sim, o sinal vertical indica-me um troço da via com bermas baixas do lado direito.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSim, o sinal vertical indica-me um troço da via com bermas baixas do lado direito.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  " Não, a sinalização existente na via apenas proíbe a manobra de ultrapassagem.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e​\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003e Não, a sinalização existente na via apenas proíbe a manobra de ultrapassagem.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  " Sim, o sinal vertical indica-me um troço da via com pavimento escorregadio.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e​\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003e Sim, o sinal vertical indica-me um troço da via com pavimento escorregadio.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  20,
+                          "slideId":  "{ECB77F98-4E23-4F9C-BEFC-41D500C7F66D}",
+                          "type":  "MultipleChoice",
+                          "question":  "O sinal vertical indica-me:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO sinal vertical indica-me:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-5bc9-8d1a-af87-7e4e.png",
+                          "imageRelativePath":  "data/images/img-5bc9-8d1a-af87-7e4e.png",
+                          "options":  [
+                                          {
+                                              "text":  "Bermas baixas.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eBermas baixas.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Curva perigosa à direita.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCurva perigosa à direita.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Resíduos no pavimento que podem provocar despiste.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eResíduos no pavimento que podem provocar despiste.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  21,
+                          "slideId":  "{5300CC56-86AF-4BB0-9349-A29BEE4C1E1F}",
+                          "type":  "MultipleChoice",
+                          "question":  "O sinal vertical indica:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO sinal vertical indica:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-2e68-254f-743f-4666.png",
+                          "imageRelativePath":  "data/images/img-2e68-254f-743f-4666.png",
+                          "options":  [
+                                          {
+                                              "text":  "Via com trânsito de sentido único.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eVia com trânsito de sentido único.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Sentido obrigatório.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSentido obrigatório.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Via onde só é possível formar uma fila de trânsito em cada sentido.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eVia onde só é possível formar uma fila de trânsito em cada sentido.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  22,
+                          "slideId":  "{4C013E02-8150-47A1-B195-579B54641EA0}",
+                          "type":  "MultipleChoice",
+                          "question":  "O sinal vertical indica-me fim de velocidade:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO sinal vertical indica-me fim de velocidade:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-cef1-edd8-617c-b8a2.png",
+                          "imageRelativePath":  "data/images/img-cef1-edd8-617c-b8a2.png",
+                          "options":  [
+                                          {
+                                              "text":  "Proibida.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eProibida.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Obrigatória.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eObrigatória.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Permitida.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePermitida.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  23,
+                          "slideId":  "{974FF52A-AA1D-4620-A4C5-5F2F817CF651}",
+                          "type":  "MultipleChoice",
+                          "question":  "Este sinal indica a proibição de ultrapassar:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eEste sinal indica a proibição de ultrapassar:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-8718-bd0a-33ac-191c.png",
+                          "imageRelativePath":  "data/images/img-8718-bd0a-33ac-191c.png",
+                          "options":  [
+                                          {
+                                              "text":  "Para automóveis ligeiros e pesados.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePara automóveis ligeiros e pesados.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Somente para automóveis ligeiros.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSomente para automóveis ligeiros.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Somente para automóveis pesados.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSomente para automóveis pesados.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  24,
+                          "slideId":  "{1AAA69D9-453A-4A43-AEC7-B3819C267232}",
+                          "type":  "MultipleChoice",
+                          "question":  "Perante o sinal devo:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePerante o sinal devo:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-05f0-5a49-2036-caab.png",
+                          "imageRelativePath":  "data/images/img-05f0-5a49-2036-caab.png",
+                          "options":  [
+                                          {
+                                              "text":  "Reduzir a velocidade porque pode surgir uma criança.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eReduzir a velocidade porque pode surgir uma criança.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Parar obrigatoriamente.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eParar obrigatoriamente.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Utilizar os sinais sonoros de forma intermitente.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eUtilizar os sinais sonoros de forma intermitente.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  25,
+                          "slideId":  "{2A3E2E43-7FF2-464A-BDBE-4D6FCACD8EFC}",
+                          "type":  "MultipleChoice",
+                          "question":  "Ao avistar o sinal vertical devo moderar a velocidade porque:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eAo avistar o sinal vertical devo moderar a velocidade porque:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-1078-bf07-d5c7-7204.png",
+                          "imageRelativePath":  "data/images/img-1078-bf07-d5c7-7204.png",
+                          "options":  [
+                                          {
+                                              "text":  "Aproximo-me de um local onde o trânsito é regulado por sinalização luminosa.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eAproximo-me de um local onde o trânsito é regulado por sinalização luminosa.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "A velocidade é controlada pelo sistema de radar.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA velocidade é controlada pelo sistema de radar.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Aproximo-me de uma curva perigosa.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_53873\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eAproximo-me de uma curva perigosa.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      }
+                  ]
+}

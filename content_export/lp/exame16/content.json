@@ -1,0 +1,770 @@
+﻿{
+    "bundle":  "lp",
+    "tier":  "paid",
+    "category":  "exame",
+    "unit":  "exame16",
+    "title":  "Exames Predefinidos",
+    "indexHtml":  "E:\\Programas\\Para ver uma sena\\1\\assets\\flutter_assets\\assets\\lp\\www\\exame16\\index.html",
+    "questionCount":  25,
+    "usedImages":  [
+                       "data/images/img-063d-4d1b-bb58-80ab.png",
+                       "data/images/img-0cb0-55d4-4741-78bc.jpg",
+                       "data/images/img-0d8d-8fc5-4aa9-8e9a.jpg",
+                       "data/images/img-322c-5a90-eff1-a8e0.jpg",
+                       "data/images/img-339d-c605-be18-cbf8.jpg",
+                       "data/images/img-3827-a008-2d2f-4b01.jpg",
+                       "data/images/img-4868-4f65-8051-ce81.jpg",
+                       "data/images/img-670d-7581-a42b-064d.jpg",
+                       "data/images/img-9674-9e68-b8ab-98ee.png",
+                       "data/images/img-9815-2ac8-c886-78fb.jpg",
+                       "data/images/img-9d75-f026-4bba-fa57.jpg",
+                       "data/images/img-a061-0208-dede-79a9.png",
+                       "data/images/img-a49c-9d92-6f32-2245.jpg",
+                       "data/images/img-ab47-81ac-3749-088f.png",
+                       "data/images/img-adec-1b73-cc13-b0a7.png",
+                       "data/images/img-b4f0-7b4f-19e5-a466.png",
+                       "data/images/img-c571-fec1-34f8-ffce.png",
+                       "data/images/img-cd32-dc62-07d2-1d94.jpg",
+                       "data/images/img-ced4-a51c-2641-a058.jpg",
+                       "data/images/img-dbdc-086e-023c-29f0.png",
+                       "data/images/img-e0c7-f9fb-3cf9-9998.jpg",
+                       "data/images/img-ecf9-f0b7-d5d3-260f.jpg",
+                       "data/images/img-f653-854c-064e-432d.jpg",
+                       "data/images/img-fd28-0bbc-72b6-a5c6.png"
+                   ],
+    "availableImages":  [
+                            "img-063d-4d1b-bb58-80ab.png",
+                            "img-0cb0-55d4-4741-78bc.jpg",
+                            "img-0d8d-8fc5-4aa9-8e9a.jpg",
+                            "img-322c-5a90-eff1-a8e0.jpg",
+                            "img-339d-c605-be18-cbf8.jpg",
+                            "img-3827-a008-2d2f-4b01.jpg",
+                            "img-4868-4f65-8051-ce81.jpg",
+                            "img-670d-7581-a42b-064d.jpg",
+                            "img-9674-9e68-b8ab-98ee.png",
+                            "img-9815-2ac8-c886-78fb.jpg",
+                            "img-9d75-f026-4bba-fa57.jpg",
+                            "img-a061-0208-dede-79a9.png",
+                            "img-a223-4105-d6b1-def6.png",
+                            "img-a49c-9d92-6f32-2245.jpg",
+                            "img-ab47-81ac-3749-088f.png",
+                            "img-adec-1b73-cc13-b0a7.png",
+                            "img-b4f0-7b4f-19e5-a466.png",
+                            "img-c52e-8351-e715-d2d5.png",
+                            "img-c571-fec1-34f8-ffce.png",
+                            "img-cd32-dc62-07d2-1d94.jpg",
+                            "img-ced4-a51c-2641-a058.jpg",
+                            "img-dbdc-086e-023c-29f0.png",
+                            "img-e0c7-f9fb-3cf9-9998.jpg",
+                            "img-ecf9-f0b7-d5d3-260f.jpg",
+                            "img-f653-854c-064e-432d.jpg",
+                            "img-fd28-0bbc-72b6-a5c6.png"
+                        ],
+    "questions":  [
+                      {
+                          "n":  1,
+                          "slideId":  "{056FE96C-F303-4816-97F2-9219F024C843}",
+                          "type":  "MultipleChoice",
+                          "question":  "Num automóvel ligeiro estacionado do lado esquerdo da faixa de rodagem, a carga e descarga deve ser feita:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eNum automóvel ligeiro estacionado do lado esquerdo da faixa de rodagem, a carga e descarga deve ser feita:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-a49c-9d92-6f32-2245.jpg",
+                          "imageRelativePath":  "data/images/img-a49c-9d92-6f32-2245.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Pela retaguarda ou pelo lado esquerdo.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePela retaguarda ou pelo lado esquerdo.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Pelo lado direito ou pelo lado esquerdo",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePelo lado direito ou pelo lado esquerdo\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Pela retaguarda ou pelo lado direito.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePela retaguarda ou pelo lado direito.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Pelo lado que for mais rápido para o condutor.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePelo lado que for mais rápido para o condutor.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  2,
+                          "slideId":  "{BA55DA04-8500-4CE1-B500-6D8F8E780CDD}",
+                          "type":  "MultipleChoice",
+                          "question":  "Para que aconteçam graves acidente de trânsito, a fadiga é um dos factores que mais contribuem sobretudo:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePara que aconteçam graves acidente de trânsito, a fadiga é um dos factores que mais contribuem sobretudo:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-ecf9-f0b7-d5d3-260f.jpg",
+                          "imageRelativePath":  "data/images/img-ecf9-f0b7-d5d3-260f.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Durante a noite.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eDurante a noite.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Durante a tarde.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eDurante a tarde.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Durante a manhã.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eDurante a manhã.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Entre as 15 e as 17 horas.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eEntre as 15 e as 17 horas.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  3,
+                          "slideId":  "{AABD6A8C-C898-4ED6-8015-9DFA093B5E6B}",
+                          "type":  "MultipleChoice",
+                          "question":  "Se perceber o principio de um incêndio: ",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSe perceber o principio de um incêndio: \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-ced4-a51c-2641-a058.jpg",
+                          "imageRelativePath":  "data/images/img-ced4-a51c-2641-a058.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Actue de imediato, desligando o motor do veículo e utilizando um extintor.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eActue de imediato, desligando o motor do veículo e utilizando um extintor.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Actue de imediato, desligando as luzes do veículo e utilizando um extintor.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eActue de imediato, desligando as luzes do veículo e utilizando um extintor.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Actue de imediato, desligando o ar condicionado do veiculo e utilizando um extintor.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eActue de imediato, desligando o ar condicionado do veiculo e utilizando um extintor.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  4,
+                          "slideId":  "{2599ED1C-EB13-4FBE-A128-3121A6C1D515}",
+                          "type":  "MultipleChoice",
+                          "question":  "A definição de passeio é:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA definição de passeio é:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-322c-5a90-eff1-a8e0.jpg",
+                          "imageRelativePath":  "data/images/img-322c-5a90-eff1-a8e0.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Parte que ladeia a faixa de rodagem, destinada exclusivamente ao trânsito de peões.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eParte que ladeia a faixa de rodagem, destinada exclusivamente ao trânsito de peões.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Parte que ladeia a faixa de rodagem, destinada exclusivamente ao trânsito de veículos.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eParte que ladeia a faixa de rodagem, destinada exclusivamente ao trânsito de veículos.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Parte que ladeia a faixa de rodagem, destinada ao estacionamento de veículos.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eParte que ladeia a faixa de rodagem, destinada ao estacionamento de veículos.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Parte da faixa de rodagem, destinada exclusivamente ao trânsito de peões.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eParte da faixa de rodagem, destinada exclusivamente ao trânsito de peões.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  5,
+                          "slideId":  "{20CAC710-5054-476E-8507-1F9AA3754770}",
+                          "type":  "MultipleChoice",
+                          "question":  "Qual das seguintes é uma afirmação falsa:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eQual das seguintes é uma afirmação falsa:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-339d-c605-be18-cbf8.jpg",
+                          "imageRelativePath":  "data/images/img-339d-c605-be18-cbf8.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "O acidente resulta sempre da falha de vários elementos do sistema rodoviário.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO acidente resulta sempre da falha de vários elementos do sistema rodoviário.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "O sistema de circulação rodoviária é um conjunto de elementos interligados e dependentes.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO sistema de circulação rodoviária é um conjunto de elementos interligados e dependentes.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "O homem é o elemento mais importante do sistema rodoviário.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO homem é o elemento mais importante do sistema rodoviário.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "A probabilidade de acidente aumenta quando há uma alteração na interacção entre os vários elemento do sistema rodoviário.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA probabilidade de acidente aumenta quando há uma alteração na interacção entre os vários elemento do sistema rodoviário.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  6,
+                          "slideId":  "{4F73D315-70D5-4021-972E-BDDB1DD952FE}",
+                          "type":  "MultipleChoice",
+                          "question":  "A tarefa de condução, pode ser muito afectada pela fadiga porque:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA tarefa de condução, pode ser muito afectada pela fadiga porque:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-e0c7-f9fb-3cf9-9998.jpg",
+                          "imageRelativePath":  "data/images/img-e0c7-f9fb-3cf9-9998.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Contribui para a diminuição das capacidades perceptivas, cognitivas e também motoras.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eContribui para a diminuição das capacidades perceptivas, cognitivas e também motoras.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Contribui para o aumento das capacidades perceptivas, intelectuais e também motoras.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eContribui para o aumento das capacidades perceptivas, intelectuais e também motoras.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Contribui para despertar as capacidades cognitivas e também motoras.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eContribui para despertar as capacidades cognitivas e também motoras.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Um condutor fatigado vê diminuído o seu tempo de reacção.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eUm condutor fatigado vê diminuído o seu tempo de reacção.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  7,
+                          "slideId":  "{E4590C97-6A35-4494-877F-007CCE7E965D}",
+                          "type":  "MultipleChoice",
+                          "question":  "Os condutores não devem:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eOs condutores não devem:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-0d8d-8fc5-4aa9-8e9a.jpg",
+                          "imageRelativePath":  "data/images/img-0d8d-8fc5-4aa9-8e9a.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Circular com o braço fora do veículo.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCircular com o braço fora do veículo.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Ouvir musica.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eOuvir musica.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Fazer ultrapassagens ou fumar.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eFazer ultrapassagens ou fumar.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Olhar para os espelhos;",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eOlhar para os espelhos;\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  8,
+                          "slideId":  "{7D40FAF8-D525-4AEE-A06B-CC6DE609E1C7}",
+                          "type":  "MultipleChoice",
+                          "question":  "Quem deve ceder a passagem?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eQuem deve ceder a passagem?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-9815-2ac8-c886-78fb.jpg",
+                          "imageRelativePath":  "data/images/img-9815-2ac8-c886-78fb.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Os condutores que saiam de qualquer parque de estacionamento, de uma zona de abastecimento de combustível ou de qualquer prédio ou caminho particular.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eOs condutores que saiam de qualquer parque de estacionamento, de uma zona de abastecimento de combustível ou de qualquer prédio ou caminho particular.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Os condutores que entrem em qualquer parque de estacionamento, de uma zona de abastecimento de combustível ou de qualquer prédio ou caminho particular.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eOs condutores que entrem em qualquer parque de estacionamento, de uma zona de abastecimento de combustível ou de qualquer prédio ou caminho particular.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  " Os condutores que se apresentem pela direita.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e​\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003e Os condutores que se apresentem pela direita.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Todos os condutores que se apresentem pela esquerda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eTodos os condutores que se apresentem pela esquerda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  9,
+                          "slideId":  "{1FD74479-AB67-434D-82D3-CFCA6392BDB3}",
+                          "type":  "MultipleChoice",
+                          "question":  "A medida que aumenta a velocidade:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA medida que aumenta a velocidade:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-9d75-f026-4bba-fa57.jpg",
+                          "imageRelativePath":  "data/images/img-9d75-f026-4bba-fa57.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "reduz-se o campo de visão do condutor e aumenta a fadiga.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ereduz-se o campo de visão do condutor e aumenta a fadiga.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "aumenta o campo de visão do condutor.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eaumenta o campo de visão do condutor.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "a fadiga demora mais a aparecer.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ea fadiga demora mais a aparecer.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "melhora a capacidade de controlar o veiculo nas situações de emergência.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003emelhora a capacidade de controlar o veiculo nas situações de emergência.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  10,
+                          "slideId":  "{2BD00776-7500-4207-B881-9F984136E781}",
+                          "type":  "MultipleChoice",
+                          "question":  "Num veículo equipado com motor Diesel em aceleração, a libertação de muito fumo negro pelo tubo de escape, significa:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eNum veículo equipado com motor Diesel em aceleração, a libertação de muito fumo negro pelo tubo de escape, significa:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-cd32-dc62-07d2-1d94.jpg",
+                          "imageRelativePath":  "data/images/img-cd32-dc62-07d2-1d94.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Necessidade de regulação da bomba injectora.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eNecessidade de regulação da bomba injectora.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Óptima qualidade do combustível.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eÓptima qualidade do combustível.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Que o veículo está a queimar multo óleo.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eQue o veículo está a queimar multo óleo.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Que o veículo acelera bem.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eQue o veículo acelera bem.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  11,
+                          "slideId":  "{6F74B8B3-656F-40A5-AD41-F32E78A8893C}",
+                          "type":  "MultipleChoice",
+                          "question":  "O que é a ergonomia de um veiculo?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que é a ergonomia de um veiculo?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-f653-854c-064e-432d.jpg",
+                          "imageRelativePath":  "data/images/img-f653-854c-064e-432d.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "É a capacidade de adaptação do equipamento às particularidades de cada ser humano.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eÉ a capacidade de adaptação do equipamento às particularidades de cada ser humano.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "É a capacidade de um condutor economizar no combustível.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eÉ a capacidade de um condutor economizar no combustível.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "E a capacidade de um veículo economizar no combustível.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eE a capacidade de um veículo economizar no combustível.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  12,
+                          "slideId":  "{41B7539E-A27E-48BD-B3ED-BF8EECAB8A6C}",
+                          "type":  "MultipleChoice",
+                          "question":  "Ao perceber que existe um acidente ou vitima de doença súbita, devo:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eAo perceber que existe um acidente ou vitima de doença súbita, devo:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-3827-a008-2d2f-4b01.jpg",
+                          "imageRelativePath":  "data/images/img-3827-a008-2d2f-4b01.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Vestir o colete retrorrefletor e colocar o triângulo de sinalização, no mínimo a 30 metros do acidente e de forma a ser visível a pelo menos 100 metros.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eVestir o colete retrorrefletor e colocar o triângulo de sinalização, no mínimo a 30 metros do acidente e de forma a ser visível a pelo menos 100 metros.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Colocar o triângulo de sinalização, no mínimo a 25 metros do local do acidente e de forma a ser visível a pelo menos 100 metros.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eColocar o triângulo de sinalização, no mínimo a 25 metros do local do acidente e de forma a ser visível a pelo menos 100 metros.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Colocar o triângulo de sinalização, no mínimo a 30 metros do local do acidente e de forma a ser visível a pelo menos 150 metros.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eColocar o triângulo de sinalização, no mínimo a 30 metros do local do acidente e de forma a ser visível a pelo menos 150 metros.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  13,
+                          "slideId":  "{5A84404C-7C1E-4E4D-A809-CC9052DE03CC}",
+                          "type":  "MultipleChoice",
+                          "question":  "A força centrípeta e centrífuga:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA força centrípeta e centrífuga:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-670d-7581-a42b-064d.jpg",
+                          "imageRelativePath":  "data/images/img-670d-7581-a42b-064d.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "São forças que actuam em sentido contrário uma em relação à outra.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSão forças que actuam em sentido contrário uma em relação à outra.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "São forças que só ocorrem quando o veículo vai em linha recta.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSão forças que só ocorrem quando o veículo vai em linha recta.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Só depende do raio da trajectória não tendo a velocidade nenhuma influência.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSó depende do raio da trajectória não tendo a velocidade nenhuma influência.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "São forças que actuam no mesmo sentido e se acumulam uma à outra.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSão forças que actuam no mesmo sentido e se acumulam uma à outra.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  14,
+                          "slideId":  "{09CD1ABA-A9E2-4B59-8097-9DF383C41B32}",
+                          "type":  "MultipleChoice",
+                          "question":  "Para a execução de manobras, qual dos seguintes lhe parece mais importante? ",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePara a execução de manobras, qual dos seguintes lhe parece mais importante? \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-9815-2ac8-c886-78fb.jpg",
+                          "imageRelativePath":  "data/images/img-9815-2ac8-c886-78fb.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Treino, experiencia e uma atitude adequada.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eTreino, experiencia e uma atitude adequada.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Dedicação, atenção e uma atitude adequada.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eDedicação, atenção e uma atitude adequada.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Empenho, atitude adequada e atenção.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eEmpenho, atitude adequada e atenção.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Coragem dedicação e determinação.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCoragem dedicação e determinação.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  15,
+                          "slideId":  "{1B013930-8AC4-412E-B08C-2F4B1634ED7C}",
+                          "type":  "MultipleChoice",
+                          "question":  "Depois de ter tomado bebidas alcoólicas:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eDepois de ter tomado bebidas alcoólicas:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-4868-4f65-8051-ce81.jpg",
+                          "imageRelativePath":  "data/images/img-4868-4f65-8051-ce81.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "O álcool entra rapidamente no sistema circulatório.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO álcool entra rapidamente no sistema circulatório.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "O álcool demora duas horas a entrar no sistema circulatório.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO álcool demora duas horas a entrar no sistema circulatório.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "O álcool entra directamente no sistema urinário.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO álcool entra directamente no sistema urinário.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  16,
+                          "slideId":  "{55CE6474-3773-4510-878D-E8DFAF0F9BFF}",
+                          "type":  "MultipleChoice",
+                          "question":  "Num automóvel, as luzes mínimas e as de presença, devem estar colocadas:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eNum automóvel, as luzes mínimas e as de presença, devem estar colocadas:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-0cb0-55d4-4741-78bc.jpg",
+                          "imageRelativePath":  "data/images/img-0cb0-55d4-4741-78bc.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Duas á frente e duas atrás.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eDuas á frente e duas atrás.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Duas á frente e uma atrás.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eDuas á frente e uma atrás.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Somente duas á frente.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSomente duas á frente.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  17,
+                          "slideId":  "{8F2F4D3B-72E7-41F4-80BC-DC2EA6C7D845}",
+                          "type":  "MultipleChoice",
+                          "question":  "O sinal vertical indica-me que:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO sinal vertical indica-me que:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-9674-9e68-b8ab-98ee.png",
+                          "imageRelativePath":  "data/images/img-9674-9e68-b8ab-98ee.png",
+                          "options":  [
+                                          {
+                                              "text":  "A via pública passa a ter trânsito nos dois sentidos.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA via pública passa a ter trânsito nos dois sentidos.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Não tenho prioridade no próximo estreitamento da faixa de rodagem.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eNão tenho prioridade no próximo estreitamento da faixa de rodagem.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "O trânsito passa a fazer-se apenas num sentido.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO trânsito passa a fazer-se apenas num sentido.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  18,
+                          "slideId":  "{BA0D3421-9FF8-44D7-8417-A728DFC82F15}",
+                          "type":  "MultipleChoice",
+                          "question":  "O sinal vertical que se encontra nesta via pública indica-me que:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO sinal vertical que se encontra nesta via pública indica-me que:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-c571-fec1-34f8-ffce.png",
+                          "imageRelativePath":  "data/images/img-c571-fec1-34f8-ffce.png",
+                          "options":  [
+                                          {
+                                              "text":  "Devo ceder a passagem ao veículo que transita em sentido contrário.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eDevo ceder a passagem ao veículo que transita em sentido contrário.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "A via pública tem dois sentidos de trânsito.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA via pública tem dois sentidos de trânsito.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Tenho prioridade de passagem.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eTenho prioridade de passagem.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  19,
+                          "slideId":  "{D24958FC-2607-4652-801F-9F8139230CC1}",
+                          "type":  "MultipleChoice",
+                          "question":  "Perante este sinal:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePerante este sinal:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-adec-1b73-cc13-b0a7.png",
+                          "imageRelativePath":  "data/images/img-adec-1b73-cc13-b0a7.png",
+                          "options":  [
+                                          {
+                                              "text":  "Devo ceder a passagem a todos e quaisquer veículos que transitem na via que se aproxima.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eDevo ceder a passagem a todos e quaisquer veículos que transitem na via que se aproxima.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "No próximo entroncamento, estou obrigado a ceder a passagem apenas aos automóveis.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eNo próximo entroncamento, estou obrigado a ceder a passagem apenas aos automóveis.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Tenho prioridade de passagem sobre os veículos sem motor que circulam na via que se aproxima.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eTenho prioridade de passagem sobre os veículos sem motor que circulam na via que se aproxima.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  20,
+                          "slideId":  "{3540C9F8-4CCA-4903-9D7B-A327566AE78F}",
+                          "type":  "MultipleChoice",
+                          "question":  "O sinal vertical indica:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO sinal vertical indica:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-ab47-81ac-3749-088f.png",
+                          "imageRelativePath":  "data/images/img-ab47-81ac-3749-088f.png",
+                          "options":  [
+                                          {
+                                              "text":  "Estacionamento proibido.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eEstacionamento proibido.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Local de paragem proibida ",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eLocal de paragem proibida \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Zona de paragem e estacionamento limitado.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eZona de paragem e estacionamento limitado.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  21,
+                          "slideId":  "{D89F73C0-CADD-49D5-A163-211EFD1DF54A}",
+                          "type":  "MultipleChoice",
+                          "question":  "O que significa o sinal vertical?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que significa o sinal vertical?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-dbdc-086e-023c-29f0.png",
+                          "imageRelativePath":  "data/images/img-dbdc-086e-023c-29f0.png",
+                          "options":  [
+                                          {
+                                              "text":  "Paragem e estacionamento proibidos",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eParagem e estacionamento proibidos\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Apenas a paragem é proibida.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eApenas a paragem é proibida.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Apenas o estacionamento é proibido.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eApenas o estacionamento é proibido.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  22,
+                          "slideId":  "{151E82C8-8EA7-49E9-984F-E12A21FA6E3D}",
+                          "type":  "MultipleChoice",
+                          "question":  "O sinal de cedência de passagem indica:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO sinal de cedência de passagem indica:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-a061-0208-dede-79a9.png",
+                          "imageRelativePath":  "data/images/img-a061-0208-dede-79a9.png",
+                          "options":  [
+                                          {
+                                              "text":  "Paragem obrigatória.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eParagem obrigatória.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Trânsito proibido.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eTrânsito proibido.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Sentido proibido.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSentido proibido.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  23,
+                          "slideId":  "{1FBFFBB1-1275-4D00-BD2D-F9DA2A0C1926}",
+                          "type":  "MultipleChoice",
+                          "question":  "Perante este sinal devo circular com velocidade moderada?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePerante este sinal devo circular com velocidade moderada?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-fd28-0bbc-72b6-a5c6.png",
+                          "imageRelativePath":  "data/images/img-fd28-0bbc-72b6-a5c6.png",
+                          "options":  [
+                                          {
+                                              "text":  "Sim, o sinal vertical indica-me um troço da via com bermas baixas do lado direito.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSim, o sinal vertical indica-me um troço da via com bermas baixas do lado direito.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  " Não, a sinalização existente na via apenas proíbe a manobra de ultrapassagem.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e​\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003e Não, a sinalização existente na via apenas proíbe a manobra de ultrapassagem.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  " Sim, o sinal vertical indica-me um troço da via com pavimento escorregadio.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e​\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003e Sim, o sinal vertical indica-me um troço da via com pavimento escorregadio.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  24,
+                          "slideId":  "{ECB77F98-4E23-4F9C-BEFC-41D500C7F66D}",
+                          "type":  "MultipleChoice",
+                          "question":  "O sinal vertical indica-me:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO sinal vertical indica-me:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-b4f0-7b4f-19e5-a466.png",
+                          "imageRelativePath":  "data/images/img-b4f0-7b4f-19e5-a466.png",
+                          "options":  [
+                                          {
+                                              "text":  "Bermas baixas.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eBermas baixas.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Curva perigosa à direita.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCurva perigosa à direita.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Resíduos no pavimento que podem provocar despiste.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eResíduos no pavimento que podem provocar despiste.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  25,
+                          "slideId":  "{5300CC56-86AF-4BB0-9349-A29BEE4C1E1F}",
+                          "type":  "MultipleChoice",
+                          "question":  "O sinal vertical indica:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO sinal vertical indica:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-063d-4d1b-bb58-80ab.png",
+                          "imageRelativePath":  "data/images/img-063d-4d1b-bb58-80ab.png",
+                          "options":  [
+                                          {
+                                              "text":  "Via com trânsito de sentido único.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eVia com trânsito de sentido único.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Sentido obrigatório.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSentido obrigatório.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Via onde só é possível formar uma fila de trânsito em cada sentido.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_39103\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eVia onde só é possível formar uma fila de trânsito em cada sentido.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      }
+                  ]
+}

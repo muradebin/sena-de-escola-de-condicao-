@@ -1,0 +1,832 @@
+﻿{
+    "bundle":  "lp",
+    "tier":  "paid",
+    "category":  "sdt",
+    "unit":  "sdt10",
+    "title":  "Sinais de Trânsito",
+    "indexHtml":  "E:\\Programas\\Para ver uma sena\\1\\assets\\flutter_assets\\assets\\lp\\www\\sdt10\\index.html",
+    "questionCount":  25,
+    "usedImages":  [
+                       "data/images/img-0f36-8ca0-ab51-2fe4.jpg",
+                       "data/images/img-11c1-91f0-e63f-4abe.jpg",
+                       "data/images/img-1278-40a8-f355-4c29.jpg",
+                       "data/images/img-19f9-688b-58a7-fff2.jpg",
+                       "data/images/img-2c78-e0d4-6871-27c3.jpg",
+                       "data/images/img-2cc1-47aa-14fe-09d3.jpg",
+                       "data/images/img-30a1-3cb8-0910-b3f1.jpg",
+                       "data/images/img-39da-133f-4f88-66c0.jpg",
+                       "data/images/img-3cf7-e791-262d-5568.jpg",
+                       "data/images/img-3d16-58ac-03ce-9114.jpg",
+                       "data/images/img-44d8-2026-45de-1e0c.jpg",
+                       "data/images/img-4f4a-38a1-d258-7831.jpg",
+                       "data/images/img-5eae-9a59-e573-d17e.jpg",
+                       "data/images/img-6136-1291-0932-2132.jpg",
+                       "data/images/img-7b16-1f41-ed46-7f46.jpg",
+                       "data/images/img-7d87-e5e8-de1a-9269.jpg",
+                       "data/images/img-9c0d-bb38-9283-5405.jpg",
+                       "data/images/img-acdf-a17f-9475-7aab.jpg",
+                       "data/images/img-c09b-fc84-ec11-5a97.jpg",
+                       "data/images/img-c39f-fee2-ff31-6a4e.jpg",
+                       "data/images/img-ce43-8013-f8d3-8ba7.jpg",
+                       "data/images/img-d24d-38e8-d8ed-bc52.jpg",
+                       "data/images/img-e82f-1837-0a17-8617.jpg",
+                       "data/images/img-eb25-376e-14e1-bf30.jpg",
+                       "data/images/img-ed91-b33f-095c-c549.jpg"
+                   ],
+    "availableImages":  [
+                            "img-0f36-8ca0-ab51-2fe4.jpg",
+                            "img-11c1-91f0-e63f-4abe.jpg",
+                            "img-1278-40a8-f355-4c29.jpg",
+                            "img-19f9-688b-58a7-fff2.jpg",
+                            "img-2c78-e0d4-6871-27c3.jpg",
+                            "img-2cc1-47aa-14fe-09d3.jpg",
+                            "img-30a1-3cb8-0910-b3f1.jpg",
+                            "img-39da-133f-4f88-66c0.jpg",
+                            "img-3cf7-e791-262d-5568.jpg",
+                            "img-3d16-58ac-03ce-9114.jpg",
+                            "img-44d8-2026-45de-1e0c.jpg",
+                            "img-4f4a-38a1-d258-7831.jpg",
+                            "img-5eae-9a59-e573-d17e.jpg",
+                            "img-6136-1291-0932-2132.jpg",
+                            "img-648a-0bf1-7ac3-4226.png",
+                            "img-7b16-1f41-ed46-7f46.jpg",
+                            "img-7d87-e5e8-de1a-9269.jpg",
+                            "img-9bdf-ce78-522e-6d1e.png",
+                            "img-9c0d-bb38-9283-5405.jpg",
+                            "img-acdf-a17f-9475-7aab.jpg",
+                            "img-c09b-fc84-ec11-5a97.jpg",
+                            "img-c39f-fee2-ff31-6a4e.jpg",
+                            "img-ce43-8013-f8d3-8ba7.jpg",
+                            "img-d24d-38e8-d8ed-bc52.jpg",
+                            "img-e82f-1837-0a17-8617.jpg",
+                            "img-eb25-376e-14e1-bf30.jpg",
+                            "img-ed91-b33f-095c-c549.jpg"
+                        ],
+    "questions":  [
+                      {
+                          "n":  1,
+                          "slideId":  "{DD73BAC6-10FC-44AA-A92B-F9D47F7ADB87}",
+                          "type":  "MultipleChoice",
+                          "question":  "O significado deste sinal é:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO significado deste sinal é:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-4f4a-38a1-d258-7831.jpg",
+                          "imageRelativePath":  "data/images/img-4f4a-38a1-d258-7831.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Parque de estacionamento para automóveis pesados de mercadorias de peso total superior a 10 Toneladas.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eParque de estacionamento para automóveis pesados de mercadorias de peso total superior a 10 Toneladas.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Parque de estacionamento para automóveis pesados de mercadorias de peso total superior a 10 Kilos.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eParque de estacionamento para automóveis pesados de mercadorias de peso total superior a 10 Kilos.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Parque de estacionamento para automóveis pesados de passageiros de peso total superior a 10 Toneladas.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eParque de estacionamento para automóveis pesados de passageiros de peso total superior a 10 Toneladas.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Parque de estacionamento para todos os automóveis de peso total superior a 10 Toneladas.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eParque de estacionamento para todos os automóveis de peso total superior a 10 Toneladas.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  2,
+                          "slideId":  "{2DA047A7-B31C-4975-9B24-B40837AA38E8}",
+                          "type":  "MultipleChoice",
+                          "question":  "O significado deste sinal é:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO significado deste sinal é:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-3cf7-e791-262d-5568.jpg",
+                          "imageRelativePath":  "data/images/img-3cf7-e791-262d-5568.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Curva á direita e contracurva.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCurva á direita e contracurva.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Curva á direita e contracurva á direita.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCurva á direita e contracurva á direita.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Curva á esquerda e contracurva.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCurva á esquerda e contracurva.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Curva á esquerda e contracurva á direita.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCurva á esquerda e contracurva á direita.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  3,
+                          "slideId":  "{F9249C62-AF72-4845-9B87-E01F624DE693}",
+                          "type":  "MultipleChoice",
+                          "question":  "O significado deste sinal é:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO significado deste sinal é:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-acdf-a17f-9475-7aab.jpg",
+                          "imageRelativePath":  "data/images/img-acdf-a17f-9475-7aab.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Trânsito nos dois sentidos.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eTrânsito nos dois sentidos.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Prioridade pra quem circula á esquerda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePrioridade pra quem circula á esquerda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Prioridade para quem circula á direita.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePrioridade para quem circula á direita.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Prioridade temporária para quem circula á direita.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePrioridade temporária para quem circula á direita.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  4,
+                          "slideId":  "{3717DCBD-5DE9-4375-A2C8-DDE1C4C52AD0}",
+                          "type":  "MultipleChoice",
+                          "question":  "O significado deste sinal é:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO significado deste sinal é:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-c39f-fee2-ff31-6a4e.jpg",
+                          "imageRelativePath":  "data/images/img-c39f-fee2-ff31-6a4e.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Queda de pedras á direita.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eQueda de pedras á direita.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Estrada com buracos na esquerda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eEstrada com buracos na esquerda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Queda de pedras á esquerda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eQueda de pedras á esquerda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Estrada com buracos na direita.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eEstrada com buracos na direita.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  5,
+                          "slideId":  "{66BBB1E0-4426-4302-A0D8-AAFB17198CB5}",
+                          "type":  "MultipleChoice",
+                          "question":  "O significado deste sinal é:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO significado deste sinal é:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-c09b-fc84-ec11-5a97.jpg",
+                          "imageRelativePath":  "data/images/img-c09b-fc84-ec11-5a97.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Entroncamento com estrada com prioridade em T.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eEntroncamento com estrada com prioridade em T.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Fim de estrada.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eFim de estrada.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Curva com estrada com prioridade em T.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCurva com estrada com prioridade em T.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Cruzamento com estrada com prioridade em T.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCruzamento com estrada com prioridade em T.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  6,
+                          "slideId":  "{11B411E6-84EA-4BE4-A0E1-362211257E32}",
+                          "type":  "MultipleChoice",
+                          "question":  "O significado deste sinal é:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO significado deste sinal é:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-2c78-e0d4-6871-27c3.jpg",
+                          "imageRelativePath":  "data/images/img-2c78-e0d4-6871-27c3.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Passagem de nível.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePassagem de nível.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Passagem de nível com duas vias.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePassagem de nível com duas vias.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Passagem de nível com uma via.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePassagem de nível com uma via.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Passagem de comboios.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePassagem de comboios.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  7,
+                          "slideId":  "{BC7032B1-40D0-4402-93F5-9EAEFE4DBFF1}",
+                          "type":  "MultipleChoice",
+                          "question":  "O significado destes sinais é:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO significado destes sinais é:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-2cc1-47aa-14fe-09d3.jpg",
+                          "imageRelativePath":  "data/images/img-2cc1-47aa-14fe-09d3.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "A - Parque de estacionamento; B - Parque de estacionamento para veículos do corpo diplomático.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA - Parque de estacionamento; B - Parque de estacionamento para veículos do corpo diplomático.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "A - Parque de estacionamento; B - Parque de estacionamento para veículos do ministério.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA - Parque de estacionamento; B - Parque de estacionamento para veículos do ministério.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "A - Parque de estacionamento; B - Parque de estacionamento para veículos do governo.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA - Parque de estacionamento; B - Parque de estacionamento para veículos do governo.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "A - Parque de descanso; B - Parque de estacionamento para veículos do corpo diplomático.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA - Parque de descanso; B - Parque de estacionamento para veículos do corpo diplomático.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  8,
+                          "slideId":  "{1E86E1EB-BB2D-49F8-AB31-ED1533811014}",
+                          "type":  "MultipleChoice",
+                          "question":  "O significado deste sinal é.",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO significado deste sinal é.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-ce43-8013-f8d3-8ba7.jpg",
+                          "imageRelativePath":  "data/images/img-ce43-8013-f8d3-8ba7.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Um veículo de cada vez.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eUm veículo de cada vez.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Só veículos pesados de passageiros.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSó veículos pesados de passageiros.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Passagem estreita.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePassagem estreita.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Só veículos pesados de mercadorias.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSó veículos pesados de mercadorias.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  9,
+                          "slideId":  "{D3034A5C-54BA-4068-985E-2B0E9B22D74E}",
+                          "type":  "MultipleChoice",
+                          "question":  "O significado deste sinal é:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO significado deste sinal é:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-44d8-2026-45de-1e0c.jpg",
+                          "imageRelativePath":  "data/images/img-44d8-2026-45de-1e0c.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Outros perigos.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eOutros perigos.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Obrigação de parar por vários perigos",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eObrigação de parar por vários perigos\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Zona de acidentes.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eZona de acidentes.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Zona de obrigação de respeitar o código.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eZona de obrigação de respeitar o código.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  10,
+                          "slideId":  "{1D2D6772-0F14-477C-9487-5D8985F255B7}",
+                          "type":  "MultipleChoice",
+                          "question":  "O significado deste sinal é:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO significado deste sinal é:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-5eae-9a59-e573-d17e.jpg",
+                          "imageRelativePath":  "data/images/img-5eae-9a59-e573-d17e.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Sinalização luminosa em manutenção.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSinalização luminosa em manutenção.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Sinalização luminosa e de passagem de nível.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSinalização luminosa e de passagem de nível.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Sinalização luminosa inexistente.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSinalização luminosa inexistente.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Sinalização luminosa e de passagem de nível com uma via.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSinalização luminosa e de passagem de nível com uma via.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  11,
+                          "slideId":  "{C134EA2C-06F4-4114-921B-1C24C4B1E0C5}",
+                          "type":  "MultipleChoice",
+                          "question":  "Este sinal significa:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eEste sinal significa:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-1278-40a8-f355-4c29.jpg",
+                          "imageRelativePath":  "data/images/img-1278-40a8-f355-4c29.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Raquetas e bandeirola de sinalização.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eRaquetas e bandeirola de sinalização.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Obrigatório parar.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eObrigatório parar.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Proibido passar.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eProibido passar.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Homens na via a trabalhar. ",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eHomens na via a trabalhar. \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  12,
+                          "slideId":  "{9641C458-D849-44DA-AEF8-BE245B6E7188}",
+                          "type":  "MultipleChoice",
+                          "question":  "O significado deste sinal é:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO significado deste sinal é:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-e82f-1837-0a17-8617.jpg",
+                          "imageRelativePath":  "data/images/img-e82f-1837-0a17-8617.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Indicação de aproximação de saída de autoestrada.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eIndicação de aproximação de saída de autoestrada.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Indicação de aproximação de entrada de autoestrada.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eIndicação de aproximação de entrada de autoestrada.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Indicação de aproximação de entrada de via rápida.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eIndicação de aproximação de entrada de via rápida.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "indicação de aproximação de saída de via rápida.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eindicação de aproximação de saída de via rápida.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  13,
+                          "slideId":  "{48AAA5F3-02F5-42D4-8156-F6FA823BCB76}",
+                          "type":  "MultipleChoice",
+                          "question":  "O significado deste sinal é:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO significado deste sinal é:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-d24d-38e8-d8ed-bc52.jpg",
+                          "imageRelativePath":  "data/images/img-d24d-38e8-d8ed-bc52.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Passagem estreita.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePassagem estreita.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Ponte estreita.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePonte estreita.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Estrada convergente.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eEstrada convergente.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Duas vias que se juntam.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eDuas vias que se juntam.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  14,
+                          "slideId":  "{23E9BE37-7FCE-4D50-9C71-ACBB2276A2D1}",
+                          "type":  "MultipleChoice",
+                          "question":  "O significado deste sinal é:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO significado deste sinal é:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-0f36-8ca0-ab51-2fe4.jpg",
+                          "imageRelativePath":  "data/images/img-0f36-8ca0-ab51-2fe4.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Via rápida temporariamente interrompida.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eVia rápida temporariamente interrompida.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Via rápida definitivamente interrompida.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eVia rápida definitivamente interrompida.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Autoestrada temporariamente interrompida.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eAutoestrada temporariamente interrompida.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Autoestrada definitivamente interrompida.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eAutoestrada definitivamente interrompida.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  15,
+                          "slideId":  "{4B1A34E7-A688-438A-9935-923FF2318BA2}",
+                          "type":  "MultipleChoice",
+                          "question":  "O significado deste sinal é:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO significado deste sinal é:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-11c1-91f0-e63f-4abe.jpg",
+                          "imageRelativePath":  "data/images/img-11c1-91f0-e63f-4abe.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Curvas sucessivas, primeira à esquerda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCurvas sucessivas, primeira à esquerda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Curvas sucessivas, primeira à direita.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCurvas sucessivas, primeira à direita.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Curvas e contra curvas, primeira à direita.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCurvas e contra curvas, primeira à direita.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Curvas e contra curvas, primeira à esquerda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCurvas e contra curvas, primeira à esquerda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  16,
+                          "slideId":  "{E5F91644-0C1A-4751-93F1-169EAE776813}",
+                          "type":  "MultipleChoice",
+                          "question":  "O significado deste sinal é:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO significado deste sinal é:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-39da-133f-4f88-66c0.jpg",
+                          "imageRelativePath":  "data/images/img-39da-133f-4f88-66c0.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Terreno falso à esquerda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eTerreno falso à esquerda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Zona de passagem pela direita.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eZona de passagem pela direita.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Terreno com pedra à esquerda",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eTerreno com pedra à esquerda\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Zona de passagem pela esquerda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eZona de passagem pela esquerda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  17,
+                          "slideId":  "{5D3CE33E-0A77-4003-AF9C-2FE51105FED1}",
+                          "type":  "MultipleChoice",
+                          "question":  "O significado deste sinal é:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO significado deste sinal é:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-ed91-b33f-095c-c549.jpg",
+                          "imageRelativePath":  "data/images/img-ed91-b33f-095c-c549.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Àrea reservada para qualquer tipo de autocarro.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eÀrea reservada para qualquer tipo de autocarro.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Parque reservado para qualquer tipo de autocarro.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eParque reservado para qualquer tipo de autocarro.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Zona reservada para alguns tipos de autocarro.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eZona reservada para alguns tipos de autocarro.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  18,
+                          "slideId":  "{9F01A8CC-8647-4357-8899-513934FE4402}",
+                          "type":  "MultipleChoice",
+                          "question":  "O que indica o sinal?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que indica o sinal?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-3d16-58ac-03ce-9114.jpg",
+                          "imageRelativePath":  "data/images/img-3d16-58ac-03ce-9114.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Fim da via obrigatória para veículos de dimensões anormais.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eFim da via obrigatória para veículos de dimensões anormais.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Via obrigatória para veículos de dimensões anormais.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eVia obrigatória para veículos de dimensões anormais.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Fim da via obrigatória para autocarros.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eFim da via obrigatória para autocarros.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  19,
+                          "slideId":  "{2BB1E943-D7D9-4A8C-A073-FD558D02FCCF}",
+                          "type":  "MultipleChoice",
+                          "question":  "O significado deste sinal é:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO significado deste sinal é:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-9c0d-bb38-9283-5405.jpg",
+                          "imageRelativePath":  "data/images/img-9c0d-bb38-9283-5405.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Entroncamentos sucessivos primeiro à direita.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eEntroncamentos sucessivos primeiro à direita.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Entroncamentos sucessivos primeiro à esquerda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eEntroncamentos sucessivos primeiro à esquerda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Cruzamentos sucessivos primeiro à direita",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCruzamentos sucessivos primeiro à direita\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Cruzamentos sucessivos primeiro à esquerda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCruzamentos sucessivos primeiro à esquerda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  20,
+                          "slideId":  "{4B7CF891-4EA7-4F4F-B7BF-C87B44CF15FA}",
+                          "type":  "MultipleChoice",
+                          "question":  "O significado deste sinal é:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO significado deste sinal é:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-6136-1291-0932-2132.jpg",
+                          "imageRelativePath":  "data/images/img-6136-1291-0932-2132.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Curva a direita.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCurva a direita.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Sentido obrigatório para a direita.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSentido obrigatório para a direita.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Curva à esquerda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCurva à esquerda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Inclinação à direita.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eInclinação à direita.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  21,
+                          "slideId":  "{C407379F-EC68-4B27-A525-6C2D3D4B89BE}",
+                          "type":  "MultipleChoice",
+                          "question":  "O significado deste sinal é:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO significado deste sinal é:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-19f9-688b-58a7-fff2.jpg",
+                          "imageRelativePath":  "data/images/img-19f9-688b-58a7-fff2.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Curva fechada à esquerda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCurva fechada à esquerda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Proibido a inversão de sentido de marcha.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eProibido a inversão de sentido de marcha.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Inversão de marcha para a esquerda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eInversão de marcha para a esquerda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Curva à esquerda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCurva à esquerda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  22,
+                          "slideId":  "{AC9E2F35-C7E1-498C-9A64-7128FBA00E1E}",
+                          "type":  "MultipleChoice",
+                          "question":  "O significado deste sinal é:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO significado deste sinal é:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-30a1-3cb8-0910-b3f1.jpg",
+                          "imageRelativePath":  "data/images/img-30a1-3cb8-0910-b3f1.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Curva a esquerda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCurva a esquerda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Curva á direita. ",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCurva á direita. \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Mudança de direcção a esquerda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eMudança de direcção a esquerda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Sentido obrigatório para esquerda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSentido obrigatório para esquerda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  23,
+                          "slideId":  "{67E3526A-DF88-4DEE-A576-D42ADFB79BF6}",
+                          "type":  "MultipleChoice",
+                          "question":  "O significado deste sinal é:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO significado deste sinal é:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-eb25-376e-14e1-bf30.jpg",
+                          "imageRelativePath":  "data/images/img-eb25-376e-14e1-bf30.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Entroncamento agudo para esquerda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eEntroncamento agudo para esquerda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Entroncamento divergente para esquerda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eEntroncamento divergente para esquerda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Entroncamento agudo para direita.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eEntroncamento agudo para direita.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Entroncamento divergente para direita",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eEntroncamento divergente para direita\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  24,
+                          "slideId":  "{31405EAE-3928-4D1E-B297-06F239BBF8E8}",
+                          "type":  "MultipleChoice",
+                          "question":  "O significado deste sinal é:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO significado deste sinal é:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-7b16-1f41-ed46-7f46.jpg",
+                          "imageRelativePath":  "data/images/img-7b16-1f41-ed46-7f46.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Cruzamento com trânsito nos sentidos.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCruzamento com trânsito nos sentidos.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Sentidos obrigatórios.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSentidos obrigatórios.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Trânsito nos dois sentidos.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eTrânsito nos dois sentidos.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Duas vias de trânsito.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eDuas vias de trânsito.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  25,
+                          "slideId":  "{82233917-5A7F-4A16-A029-832EA9B15FCE}",
+                          "type":  "MultipleChoice",
+                          "question":  "O significado deste sinal é:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO significado deste sinal é:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-7d87-e5e8-de1a-9269.jpg",
+                          "imageRelativePath":  "data/images/img-7d87-e5e8-de1a-9269.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Maquinas.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eMaquinas.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Zona de máquinas de agricultura.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eZona de máquinas de agricultura.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Zona de máquinas de escavação.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eZona de máquinas de escavação.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Pista obrigatória para máquinas. ",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt4_56438\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePista obrigatória para máquinas. \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      }
+                  ]
+}

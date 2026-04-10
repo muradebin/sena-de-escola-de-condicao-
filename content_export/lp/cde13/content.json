@@ -1,0 +1,805 @@
+﻿{
+    "bundle":  "lp",
+    "tier":  "paid",
+    "category":  "cde",
+    "unit":  "cde13",
+    "title":  "Código da Estrada",
+    "indexHtml":  "E:\\Programas\\Para ver uma sena\\1\\assets\\flutter_assets\\assets\\lp\\www\\cde13\\index.html",
+    "questionCount":  25,
+    "usedImages":  [
+                       "data/images/img-0ddb-bed6-32eb-3ffc.jpg",
+                       "data/images/img-137b-fcd0-fb17-02a8.jpg",
+                       "data/images/img-14cd-c950-2002-7766.jpg",
+                       "data/images/img-16d9-f5f3-11e3-de0f.jpg",
+                       "data/images/img-1cff-2a6e-b8a9-eade.jpg",
+                       "data/images/img-20f3-a33f-28ab-15db.jpg",
+                       "data/images/img-3fbb-843c-f570-3aea.jpg",
+                       "data/images/img-4d87-9d15-3c30-9579.jpg",
+                       "data/images/img-562a-0ca8-deb0-f13c.jpg",
+                       "data/images/img-576e-0e46-ea45-8c42.jpg",
+                       "data/images/img-5f31-dda8-e429-2dfd.jpg",
+                       "data/images/img-6875-df27-14d8-e156.jpg",
+                       "data/images/img-74cc-a2a3-5e3d-f78d.jpg",
+                       "data/images/img-765d-6f13-3d8d-b5f6.jpg",
+                       "data/images/img-7a5d-88d9-cd3c-85db.jpg",
+                       "data/images/img-7e4f-9496-1128-323c.jpg",
+                       "data/images/img-8e77-fe38-5a67-9308.jpg",
+                       "data/images/img-9007-45f5-003a-06c2.jpg",
+                       "data/images/img-a916-fe1a-25f8-e893.jpg",
+                       "data/images/img-a939-5444-3db9-9382.jpg",
+                       "data/images/img-b519-b01e-02b8-eb61.jpg",
+                       "data/images/img-e296-edfd-76ab-9d22.jpg",
+                       "data/images/img-e2b5-8bf2-5aaa-1ee5.jpg",
+                       "data/images/img-f08c-46cb-ba7b-0294.jpg"
+                   ],
+    "availableImages":  [
+                            "img-0ddb-bed6-32eb-3ffc.jpg",
+                            "img-137b-fcd0-fb17-02a8.jpg",
+                            "img-14cd-c950-2002-7766.jpg",
+                            "img-16d9-f5f3-11e3-de0f.jpg",
+                            "img-1cff-2a6e-b8a9-eade.jpg",
+                            "img-20f3-a33f-28ab-15db.jpg",
+                            "img-3fbb-843c-f570-3aea.jpg",
+                            "img-4d87-9d15-3c30-9579.jpg",
+                            "img-562a-0ca8-deb0-f13c.jpg",
+                            "img-576e-0e46-ea45-8c42.jpg",
+                            "img-5f31-dda8-e429-2dfd.jpg",
+                            "img-6875-df27-14d8-e156.jpg",
+                            "img-74cc-a2a3-5e3d-f78d.jpg",
+                            "img-765d-6f13-3d8d-b5f6.jpg",
+                            "img-7a5d-88d9-cd3c-85db.jpg",
+                            "img-7e4f-9496-1128-323c.jpg",
+                            "img-8e77-fe38-5a67-9308.jpg",
+                            "img-9007-45f5-003a-06c2.jpg",
+                            "img-a916-fe1a-25f8-e893.jpg",
+                            "img-a939-5444-3db9-9382.jpg",
+                            "img-b519-b01e-02b8-eb61.jpg",
+                            "img-c4f5-adc0-5da7-a7fd.png",
+                            "img-e296-edfd-76ab-9d22.jpg",
+                            "img-e2b5-8bf2-5aaa-1ee5.jpg",
+                            "img-f08c-46cb-ba7b-0294.jpg",
+                            "img-f0d9-2b17-927e-e3e9.png"
+                        ],
+    "questions":  [
+                      {
+                          "n":  1,
+                          "slideId":  "{41D94671-C38F-438F-BC2F-39B14DB3416F}",
+                          "type":  "MultipleChoice",
+                          "question":  "A definição de estrada é:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA definição de estrada é:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-a916-fe1a-25f8-e893.jpg",
+                          "imageRelativePath":  "data/images/img-a916-fe1a-25f8-e893.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Via de comunicação terrestre especialmente destinada ao trânsito de veículos.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eVia de comunicação terrestre especialmente destinada ao trânsito de veículos.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Via de comunicação aérea especialmente destinada ao trânsito de veículo",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eVia de comunicação aérea especialmente destinada ao trânsito de veículo\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Via de comunicação terrestre não especialmente destinada ao trânsito de veículos.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eVia de comunicação terrestre não especialmente destinada ao trânsito de veículos.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Via de comunicação terrestre especialmente destinada ao trânsito de peões.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eVia de comunicação terrestre especialmente destinada ao trânsito de peões.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  2,
+                          "slideId":  "{5B5265B6-AE70-4733-8FB5-2924870ECE4E}",
+                          "type":  "MultipleChoice",
+                          "question":  "Muitas tarefas que são necessárias á condução, exigem que o condutor retire os olhos da estrada:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eMuitas tarefas que são necessárias á condução, exigem que o condutor retire os olhos da estrada:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-e2b5-8bf2-5aaa-1ee5.jpg",
+                          "imageRelativePath":  "data/images/img-e2b5-8bf2-5aaa-1ee5.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Certo.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCerto.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Errado.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eErrado.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  3,
+                          "slideId":  "{8F27BF89-D128-46E2-8B76-ADEA94445051}",
+                          "type":  "MultipleChoice",
+                          "question":  "O tomar bebidas alcoólicas:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO tomar bebidas alcoólicas:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-562a-0ca8-deb0-f13c.jpg",
+                          "imageRelativePath":  "data/images/img-562a-0ca8-deb0-f13c.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Reduz o campo visual, a capacidade de exploração visual e a capacidade readaptação visual após encadeamento.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eReduz o campo visual, a capacidade de exploração visual e a capacidade readaptação visual após encadeamento.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Aumenta o campo visual, a capacidade de exploração visual, a visão dupla e redução da capacidade de  readaptação após encandeamento.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eAumenta o campo visual, a capacidade de exploração visual, a visão dupla e redução da capacidade de ​ readaptação após encandeamento.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Reduz o campo visual, a capacidade exploração visual e aumenta a capacidade de readaptação visual após encadeamento.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eReduz o campo visual, a capacidade exploração visual e aumenta a capacidade de readaptação visual após encadeamento.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  4,
+                          "slideId":  "{D517D45E-C489-409D-ADE6-0B6DEB52ADF4}",
+                          "type":  "MultipleChoice",
+                          "question":  "Se estacionar o veículo na faixa de rodagem desde anoitecer até ao amanhecer, deve utilizar alguma luz?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSe estacionar o veículo na faixa de rodagem desde anoitecer até ao amanhecer, deve utilizar alguma luz?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-74cc-a2a3-5e3d-f78d.jpg",
+                          "imageRelativePath":  "data/images/img-74cc-a2a3-5e3d-f78d.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Sim, as de presença (mínimos), se a iluminação não permite reconhecer o veículo a 100 metros.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSim, as de presença (mínimos), se a iluminação não permite reconhecer o veículo a 100 metros.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Não , mesmo que seja num local sem iluminação.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eNão , mesmo que seja num local sem iluminação.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "sim, as de estrada (máximos)",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003esim, as de estrada (máximos)\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "sim, as de cruzamento (médios), se a iluminação não permite reconhecer o veículo a 100 metros.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003esim, as de cruzamento (médios), se a iluminação não permite reconhecer o veículo a 100 metros.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  5,
+                          "slideId":  "{D842EE2F-F482-4802-B1EB-DF86162BE670}",
+                          "type":  "MultipleChoice",
+                          "question":  "Ao mudar de direcção num cruzamento, como o deve sinalizar para os outros utentes da via?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eAo mudar de direcção num cruzamento, como o deve sinalizar para os outros utentes da via?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-3fbb-843c-f570-3aea.jpg",
+                          "imageRelativePath":  "data/images/img-3fbb-843c-f570-3aea.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Com antecedência, utilizando a luz indicadora de direcção e, na falta desta, o braço.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCom antecedência, utilizando a luz indicadora de direcção e, na falta desta, o braço.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Depois de iniciar a mudança de direcção.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eDepois de iniciar a mudança de direcção.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Não é necessário sinalizar se tem prioridade de passagem.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eNão é necessário sinalizar se tem prioridade de passagem.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Não é necessário sinalizar se há pouco trânsito.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eNão é necessário sinalizar se há pouco trânsito.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  6,
+                          "slideId":  "{0AAE5E30-F3B7-4350-AB36-7B4920447F38}",
+                          "type":  "MultipleChoice",
+                          "question":  "Em caso de avaria, os sinais de pré-sinalização de perigo devem colocar-se por forma a ficar bem visíveis a uma distância de:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eEm caso de avaria, os sinais de pré-sinalização de perigo devem colocar-se por forma a ficar bem visíveis a uma distância de:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-9007-45f5-003a-06c2.jpg",
+                          "imageRelativePath":  "data/images/img-9007-45f5-003a-06c2.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "pelo menos 100 metros.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003epelo menos 100 metros.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "pelo menos 50 metros.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003epelo menos 50 metros.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "pelo menos 25 metros.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003epelo menos 25 metros.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "10 metros.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003e10 metros.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  7,
+                          "slideId":  "{C99E04FA-796A-4760-9DB4-86F2EB5C27CC}",
+                          "type":  "MultipleChoice",
+                          "question":  "Umas das consequências de aumentar a velocidade é que: ",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eUmas das consequências de aumentar a velocidade é que: \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-20f3-a33f-28ab-15db.jpg",
+                          "imageRelativePath":  "data/images/img-20f3-a33f-28ab-15db.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "aumenta a gravidade das lesões em caso de acidente. ",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eaumenta a gravidade das lesões em caso de acidente. \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "reduz a distância de travagem.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ereduz a distância de travagem.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "melhora o tempo de reacção.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003emelhora o tempo de reacção.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "reduz as distrações.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ereduz as distrações.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  8,
+                          "slideId":  "{0C15130C-36F3-408E-8066-34F5F1622CEE}",
+                          "type":  "MultipleChoice",
+                          "question":  "O espaço percorrido pelo veículo durante o tempo de reação do condutor não é sempre o mesmo e depende: ",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO espaço percorrido pelo veículo durante o tempo de reação do condutor não é sempre o mesmo e depende: \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-4d87-9d15-3c30-9579.jpg",
+                          "imageRelativePath":  "data/images/img-4d87-9d15-3c30-9579.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Do tempo da reacção e da velocidade do veículo.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eDo tempo da reacção e da velocidade do veículo.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Principalmente de factores externos ao condutor.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePrincipalmente de factores externos ao condutor.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Só da velocidade do veículo e não tem influência o tempo de reacção do condutor.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSó da velocidade do veículo e não tem influência o tempo de reacção do condutor.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Só do tempo da reacção do condutor e não tem influência a velocidade do veículo.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSó do tempo da reacção do condutor e não tem influência a velocidade do veículo.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  9,
+                          "slideId":  "{704F595F-50F8-4F6F-9D0F-D152C26F8D4B}",
+                          "type":  "MultipleChoice",
+                          "question":  "As luzes de máximos, com nevoeiro (cacimba)",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eAs luzes de máximos, com nevoeiro (cacimba)\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-f08c-46cb-ba7b-0294.jpg",
+                          "imageRelativePath":  "data/images/img-f08c-46cb-ba7b-0294.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Devem ser evitadas, em especial á noite.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eDevem ser evitadas, em especial á noite.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Devem obrigatoriamente ser usadas.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eDevem obrigatoriamente ser usadas.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Só devem ser usados a noite. ",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSó devem ser usados a noite. \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Só devem ser usados de dia.  ",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSó devem ser usados de dia. ​ \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  10,
+                          "slideId":  "{0F8BF3A5-0DDB-4E55-8A7E-DF16A97194A9}",
+                          "type":  "MultipleChoice",
+                          "question":  "Como deve ser efectuada a carga e descarga de veículos?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eComo deve ser efectuada a carga e descarga de veículos?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-6875-df27-14d8-e156.jpg",
+                          "imageRelativePath":  "data/images/img-6875-df27-14d8-e156.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Pelo lado permitido para a paragem do veículo ou pela retaguarda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePelo lado permitido para a paragem do veículo ou pela retaguarda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Pelo lado que as pessoas que descarregam tenham maior facilidade em fazê-lo.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePelo lado que as pessoas que descarregam tenham maior facilidade em fazê-lo.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Sempre pela direita ou pela retaguarda.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSempre pela direita ou pela retaguarda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  11,
+                          "slideId":  "{6D9657F6-20CF-439E-AAA6-E6AF65F5BD57}",
+                          "type":  "MultipleChoice",
+                          "question":  "Na condução a fadiga pode provocar:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eNa condução a fadiga pode provocar:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-5f31-dda8-e429-2dfd.jpg",
+                          "imageRelativePath":  "data/images/img-5f31-dda8-e429-2dfd.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "O aumento do tempo de reacção.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO aumento do tempo de reacção.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "O aumento da atenção e capacidade para reagir.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO aumento da atenção e capacidade para reagir.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "A redução da distância de paragem.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA redução da distância de paragem.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "A diminuição da distância de travagem.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA diminuição da distância de travagem.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  12,
+                          "slideId":  "{DA9FEAF3-AA98-4B1D-8F50-2BB7816E9E00}",
+                          "type":  "MultipleChoice",
+                          "question":  "Nos locais onde é proibido, a inversão do sentido de marcha:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eNos locais onde é proibido, a inversão do sentido de marcha:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-0ddb-bed6-32eb-3ffc.jpg",
+                          "imageRelativePath":  "data/images/img-0ddb-bed6-32eb-3ffc.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "É contravenção punida com a multa de 1.000,00 Mt.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eÉ contravenção punida com a multa de 1.000,00 Mt.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "É contravenção punida com a multa de 500,00 Mt.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eÉ contravenção punida com a multa de 500,00 Mt.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "É contravenção punida com a multa de 2.000,00 Mt.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eÉ contravenção punida com a multa de 2.000,00 Mt.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Não é considerada contravenção.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eNão é considerada contravenção.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  13,
+                          "slideId":  "{FA62657B-F118-4E5D-8509-FA469FC67682}",
+                          "type":  "MultipleChoice",
+                          "question":  "A condução sob influência do álcool:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA condução sob influência do álcool:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-562a-0ca8-deb0-f13c.jpg",
+                          "imageRelativePath":  "data/images/img-562a-0ca8-deb0-f13c.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Aumenta o risco de acidente.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eAumenta o risco de acidente.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Em nada interfere com a segurança rodoviária.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eEm nada interfere com a segurança rodoviária.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Pode melhorar o estado do condutor devido á melhora da sua disposição.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePode melhorar o estado do condutor devido á melhora da sua disposição.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Diminui o risco de acidente.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eDiminui o risco de acidente.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  14,
+                          "slideId":  "{FC12F13A-0DF8-4DBF-AAE0-881573609D25}",
+                          "type":  "MultipleChoice",
+                          "question":  "Uma das partes importantes para praticar uma condução defensiva é:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eUma das partes importantes para praticar uma condução defensiva é:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-7e4f-9496-1128-323c.jpg",
+                          "imageRelativePath":  "data/images/img-7e4f-9496-1128-323c.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "A capacidade mental de prever os acontecimentos perante um estímulo visual.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA capacidade mental de prever os acontecimentos perante um estímulo visual.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "A capacidade de dominar a trajectória do veículo em condições adversas.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA capacidade de dominar a trajectória do veículo em condições adversas.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "A capacidade de acelerar dentro dos limites impostos pela sinalização.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA capacidade de acelerar dentro dos limites impostos pela sinalização.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "A capacidade de efectuar travagens sempre que necessário.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA capacidade de efectuar travagens sempre que necessário.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  15,
+                          "slideId":  "{EAFBA9E4-B46C-4AE2-BECD-1902B686E447}",
+                          "type":  "MultipleChoice",
+                          "question":  "Os condutores não podem exceder as seguintes velocidades instantâneas (em quilómetros/hora):",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eOs condutores não podem exceder as seguintes velocidades instantâneas (em quilómetros/hora):\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-7a5d-88d9-cd3c-85db.jpg",
+                          "imageRelativePath":  "data/images/img-7a5d-88d9-cd3c-85db.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Automóveis ligeiros de mercadorias com reboque dentro das localidades 60, fora das localidades 100.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eAutomóveis ligeiros de mercadorias com reboque dentro das localidades 60, fora das localidades 100.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Automóveis ligeiros de mercadorias com reboque dentro das localidades 60, fora das localidades 80.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eAutomóveis ligeiros de mercadorias com reboque dentro das localidades 60, fora das localidades 80.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Automóveis ligeiros de mercadorias com reboque dentro das localidades 50, fora das localidades 90.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eAutomóveis ligeiros de mercadorias com reboque dentro das localidades 50, fora das localidades 90.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Automóveis ligeiros de mercadorias com reboque dentro das localidades 40, fora das localidades 90.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eAutomóveis ligeiros de mercadorias com reboque dentro das localidades 40, fora das localidades 90.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  16,
+                          "slideId":  "{61C1FB56-E60F-409D-BA77-8C2D30D7B790}",
+                          "type":  "MultipleChoice",
+                          "question":  "As luzes de nevoeiro (cacimba) traseiras devem ser utilizadas:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eAs luzes de nevoeiro (cacimba) traseiras devem ser utilizadas:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-14cd-c950-2002-7766.jpg",
+                          "imageRelativePath":  "data/images/img-14cd-c950-2002-7766.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Em situação de nevoeiro intenso e quando a projecção de água pelos pneus traseiros impedir a visibilidade normal das luzes de presença traseiras.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eEm situação de nevoeiro intenso e quando a projecção de água pelos pneus traseiros impedir a visibilidade normal das luzes de presença traseiras.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Só em situação de nevoeiro intenso.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSó em situação de nevoeiro intenso.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Sempre durante a noite.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSempre durante a noite.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Só se podem utilizar durante o dia.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSó se podem utilizar durante o dia.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  17,
+                          "slideId":  "{523328C6-4070-49F6-9657-7D429A5C46D7}",
+                          "type":  "MultipleChoice",
+                          "question":  "Para praticar uma condução defensiva, o condutor deve:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePara praticar uma condução defensiva, o condutor deve:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-b519-b01e-02b8-eb61.jpg",
+                          "imageRelativePath":  "data/images/img-b519-b01e-02b8-eb61.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Estar especialmente atento à ocorrência de situações inesperadas.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eEstar especialmente atento à ocorrência de situações inesperadas.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Seguir a velocidade elevada.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSeguir a velocidade elevada.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Utilizar sinais sonoros durante a noite, dentro das localidades.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eUtilizar sinais sonoros durante a noite, dentro das localidades.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  18,
+                          "slideId":  "{ABA9FFE3-6782-4600-AB6A-C827EF7DE113}",
+                          "type":  "MultipleChoice",
+                          "question":  "Quais são os efeitos mais comuns da fadiga ao volante?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eQuais são os efeitos mais comuns da fadiga ao volante?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-765d-6f13-3d8d-b5f6.jpg",
+                          "imageRelativePath":  "data/images/img-765d-6f13-3d8d-b5f6.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "A dificuldade em manter o veículo, dentro dos limites da faixa de rodagem.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA dificuldade em manter o veículo, dentro dos limites da faixa de rodagem.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Sentir-se enérgico podendo controlar melhor o veículo.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSentir-se enérgico podendo controlar melhor o veículo.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Sentir fome e sede o que provoca a necessidade de se deslocar com maior velocidade para chegar mais rápido ao seu destino.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSentir fome e sede o que provoca a necessidade de se deslocar com maior velocidade para chegar mais rápido ao seu destino.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  19,
+                          "slideId":  "{2B19CA36-BD7B-4BE3-A507-10A69E65C925}",
+                          "type":  "MultipleChoice",
+                          "question":  "A deslocação do ar causado pela passagem de veículos pesados em alta velocidade:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA deslocação do ar causado pela passagem de veículos pesados em alta velocidade:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-a939-5444-3db9-9382.jpg",
+                          "imageRelativePath":  "data/images/img-a939-5444-3db9-9382.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Provoca ventos laterais que afectam os veículos ligeiros mais leves.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eProvoca ventos laterais que afectam os veículos ligeiros mais leves.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Provoca ventos laterais que afectam, sobretudo os veículos pesados de passageiros.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eProvoca ventos laterais que afectam, sobretudo os veículos pesados de passageiros.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Provoca ventos frontais que afectam os veículos ligeiros mais leves.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eProvoca ventos frontais que afectam os veículos ligeiros mais leves.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Não tem influência para os outros condutores.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eNão tem influência para os outros condutores.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  20,
+                          "slideId":  "{DFB3C244-33C6-452F-931E-1E57950D3809}",
+                          "type":  "MultipleChoice",
+                          "question":  "O frio excessivo, a chuva e o calor:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO frio excessivo, a chuva e o calor:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-137b-fcd0-fb17-02a8.jpg",
+                          "imageRelativePath":  "data/images/img-137b-fcd0-fb17-02a8.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Aumentam a fadiga na condução.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eAumentam a fadiga na condução.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Apenas o frio e a chuva aumentam a fadiga na condução.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eApenas o frio e a chuva aumentam a fadiga na condução.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Apenas a chuva e o calor aumentam a fadiga na condução.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eApenas a chuva e o calor aumentam a fadiga na condução.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Não aumentam a fadiga na condução.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eNão aumentam a fadiga na condução.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  21,
+                          "slideId":  "{2F3331B2-8325-4362-A689-1CA6660A1EAD}",
+                          "type":  "MultipleChoice",
+                          "question":  "Dentro das localidades, pode utilizar os sinais sonoros:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eDentro das localidades, pode utilizar os sinais sonoros:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-e296-edfd-76ab-9d22.jpg",
+                          "imageRelativePath":  "data/images/img-e296-edfd-76ab-9d22.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Só em caso de manifesta necessidade, como um perigo iminente.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSó em caso de manifesta necessidade, como um perigo iminente.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Na aproximação de uma curva.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eNa aproximação de uma curva.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "para protestar contra interrupções do trânsito.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003epara protestar contra interrupções do trânsito.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "durante a noite.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003edurante a noite.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  22,
+                          "slideId":  "{DD666B46-EEF2-42C5-8D12-6DF79893BF95}",
+                          "type":  "MultipleChoice",
+                          "question":  "Os condutores não podem exceder as seguintes velocidades instantâneas (em quilómetros/hora):",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eOs condutores não podem exceder as seguintes velocidades instantâneas (em quilómetros/hora):\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-1cff-2a6e-b8a9-eade.jpg",
+                          "imageRelativePath":  "data/images/img-1cff-2a6e-b8a9-eade.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Motociclos simples, dentro das localidades 50, fora das localidades 90.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eMotociclos simples, dentro das localidades 50, fora das localidades 90.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Motociclos simples, dentro das localidades 60, fora das localidades 90.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eMotociclos simples, dentro das localidades 60, fora das localidades 90.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Motociclos simples, dentro das localidades 50, fora das localidades 80.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eMotociclos simples, dentro das localidades 50, fora das localidades 80.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Motociclos simples, dentro das localidades 40, fora das localidades 80.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eMotociclos simples, dentro das localidades 40, fora das localidades 80.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  23,
+                          "slideId":  "{4BB9E159-2396-4613-BE48-CABC3D512097}",
+                          "type":  "MultipleChoice",
+                          "question":  "Identifique um factor de risco externo ao condutor:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eIdentifique um factor de risco externo ao condutor:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-16d9-f5f3-11e3-de0f.jpg",
+                          "imageRelativePath":  "data/images/img-16d9-f5f3-11e3-de0f.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "A publicidade na via pública.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA publicidade na via pública.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "O álcool.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO álcool.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "O cansaço.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO cansaço.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "A sinalização. ",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA sinalização. \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  24,
+                          "slideId":  "{0AD5C42D-2F45-45E7-AFDF-142C3C270F92}",
+                          "type":  "MultipleChoice",
+                          "question":  "Qualquer estímulo que chegue aos sentidos do condutor é primeiro:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eQualquer estímulo que chegue aos sentidos do condutor é primeiro:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-576e-0e46-ea45-8c42.jpg",
+                          "imageRelativePath":  "data/images/img-576e-0e46-ea45-8c42.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Percebido,",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePercebido,\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Atribuído significado.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eAtribuído significado.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Identificado.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eIdentificado.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  25,
+                          "slideId":  "{DB6E1188-3168-4820-8F72-191F292D7D88}",
+                          "type":  "MultipleChoice",
+                          "question":  "Com nevoeiro (cacimba), a distância de segurança aplicável:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCom nevoeiro (cacimba), a distância de segurança aplicável:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-8e77-fe38-5a67-9308.jpg",
+                          "imageRelativePath":  "data/images/img-8e77-fe38-5a67-9308.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Não é a mesma que em condições de boa visibilidade.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eNão é a mesma que em condições de boa visibilidade.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Ė a indicada pela sinalização vertical.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eĖ a indicada pela sinalização vertical.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Ė menor para permitir ver o carro que segue à sua frente.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eĖ menor para permitir ver o carro que segue à sua frente.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Ė a mesma que em condições de boa visibilidade.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_17493\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eĖ a mesma que em condições de boa visibilidade.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      }
+                  ]
+}

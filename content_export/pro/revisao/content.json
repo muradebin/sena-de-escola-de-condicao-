@@ -1,0 +1,643 @@
+﻿{
+    "bundle":  "pro",
+    "tier":  "paid",
+    "category":  "revisao",
+    "unit":  "revisao",
+    "title":  "EDC MZ",
+    "indexHtml":  "E:\\Programas\\Para ver uma sena\\1\\assets\\flutter_assets\\assets\\pro\\www\\revisao\\index.html",
+    "questionCount":  12,
+    "usedImages":  [
+                       "data/images/img-0001-f22d-525d-73fe.jpg",
+                       "data/images/img-4555-b84b-96f5-b343.jpg",
+                       "data/images/img-544f-0151-9d97-abf9.jpg",
+                       "data/images/img-59c5-cd07-6ddd-57a8.jpg",
+                       "data/images/img-6344-f52b-e64d-cdd6.jpg",
+                       "data/images/img-87bd-8f7f-c3f3-78e3.jpg",
+                       "data/images/img-9a5b-159d-74db-6c22.jpg",
+                       "data/images/img-a1ba-a120-20d0-5f62.jpg",
+                       "data/images/img-bdf5-2693-abee-7df4.jpg",
+                       "data/images/img-c98e-2def-30c4-92c1.jpg",
+                       "data/images/img-d16e-a4fa-2c7b-b6d5.jpg",
+                       "data/images/img-e320-549e-9f5f-0092.jpg"
+                   ],
+    "availableImages":  [
+                            "img-0001-f22d-525d-73fe.jpg",
+                            "img-0079-7f21-278c-9620.jpg",
+                            "img-0144-324f-f7ad-e8bd.jpg",
+                            "img-049b-ce50-221f-b500.jpg",
+                            "img-0515-36cd-84a6-6d4c.jpg",
+                            "img-0556-1507-a2ec-00b7.jpg",
+                            "img-0799-5753-6f64-8bdb.jpg",
+                            "img-0801-612f-b19c-50cb.jpg",
+                            "img-095c-9af5-79c7-44df.jpg",
+                            "img-0bc9-4c59-a92d-4d57.jpg",
+                            "img-0bda-f8b4-5ec7-620f.jpg",
+                            "img-0bf4-c3aa-8e80-7984.jpg",
+                            "img-0c19-9a6f-3b7d-d2b8.jpg",
+                            "img-0cb2-5828-fe48-6f3f.jpg",
+                            "img-0dae-47ce-1799-a913.jpg",
+                            "img-0f77-2b38-836a-27e8.png",
+                            "img-10de-0e84-c0d6-9711.jpg",
+                            "img-124e-1836-f65b-a5bd.jpg",
+                            "img-1284-748b-6636-a077.jpg",
+                            "img-1508-08b9-c308-5cee.jpg",
+                            "img-153e-3b34-ea2f-8b11.jpg",
+                            "img-1755-e8d3-a387-045e.jpg",
+                            "img-17b4-25bc-8845-7629.jpg",
+                            "img-195a-a807-916e-b046.jpg",
+                            "img-1b7f-e6c0-1628-ab0a.jpg",
+                            "img-1bb9-6b9a-4766-8aa6.jpg",
+                            "img-1cb5-19a0-b345-2684.jpg",
+                            "img-1ed3-fd9e-ab54-db52.png",
+                            "img-1f8e-2c9d-0d4d-276e.jpg",
+                            "img-1fb1-359d-bfe2-ea31.jpg",
+                            "img-2090-e32b-6232-f1f6.jpg",
+                            "img-227e-cd6d-fdc9-349f.jpg",
+                            "img-22a0-f877-8924-5946.jpg",
+                            "img-235e-47aa-302a-518b.jpg",
+                            "img-237c-4d41-a6ae-cb8b.jpg",
+                            "img-23f9-ece6-c5b3-f55a.jpg",
+                            "img-23fa-5a8b-0203-2f52.jpg",
+                            "img-251e-c509-b25f-ffd6.jpg",
+                            "img-25c6-50ac-5bb9-ed46.jpg",
+                            "img-27ac-d8d4-be51-5171.jpg",
+                            "img-2bcd-9cd9-a0c7-0794.jpg",
+                            "img-2c61-b8c2-37a2-3dcb.jpg",
+                            "img-2ca1-e703-abda-e8d1.jpg",
+                            "img-3107-508a-c6cf-4d2e.jpg",
+                            "img-31bb-4e1e-ac80-b84c.jpg",
+                            "img-31eb-6a5d-f4de-b3e5.jpg",
+                            "img-334d-6b2a-9a95-64aa.jpg",
+                            "img-3370-5465-fefa-f3ca.jpg",
+                            "img-3424-584b-d67e-c198.jpg",
+                            "img-34ed-4970-dfea-1623.jpg",
+                            "img-3615-2049-3915-c5d0.jpg",
+                            "img-36dc-46d6-fca7-762e.jpg",
+                            "img-37fd-1bd3-4996-3b94.jpg",
+                            "img-3874-1928-ce3f-41ee.jpg",
+                            "img-3b44-27c0-be68-10f4.jpg",
+                            "img-3b70-1da5-f546-4923.jpg",
+                            "img-3c8b-c298-d2ce-6ebd.jpg",
+                            "img-3ced-81ee-35a0-223c.jpg",
+                            "img-3ddf-2a9c-2c70-49d8.jpg",
+                            "img-3f50-0beb-5e0b-da30.jpg",
+                            "img-3fa1-2885-e95d-d329.jpg",
+                            "img-3fb1-6f98-1b54-3b83.jpg",
+                            "img-3fff-e40b-eceb-6988.jpg",
+                            "img-4172-3d6f-4a7c-68e0.jpg",
+                            "img-42b0-8b61-dd51-ce7a.jpg",
+                            "img-4475-f0f9-b91e-1827.jpg",
+                            "img-4555-b84b-96f5-b343.jpg",
+                            "img-45b4-f47a-5858-bd33.jpg",
+                            "img-469f-4faf-273b-05ae.jpg",
+                            "img-47a6-48eb-f41b-0b45.jpg",
+                            "img-4852-3989-1572-e685.jpg",
+                            "img-485a-2fe3-faa4-9d27.jpg",
+                            "img-4932-a621-7e24-fb57.jpg",
+                            "img-49b1-d116-71fe-3f4f.jpg",
+                            "img-49b4-3070-5573-5c75.jpg",
+                            "img-4c8a-c1de-1cc0-5809.jpg",
+                            "img-4e08-850d-4350-98f1.jpg",
+                            "img-4f53-6831-325c-aa2c.jpg",
+                            "img-4ffb-acf9-9586-bbf6.jpg",
+                            "img-5039-e7fb-cc18-9076.jpg",
+                            "img-543d-3dfc-4cdc-af61.jpg",
+                            "img-544f-0151-9d97-abf9.jpg",
+                            "img-552d-d936-cc66-f1a9.jpg",
+                            "img-55b3-a75f-1313-ebf5.jpg",
+                            "img-55d9-0f47-c8e4-945a.jpg",
+                            "img-56c6-3039-14b3-3474.jpg",
+                            "img-58d2-ed52-10f0-2138.jpg",
+                            "img-590b-13bd-162f-6299.jpg",
+                            "img-5995-5d6d-0d14-648d.jpg",
+                            "img-59c5-cd07-6ddd-57a8.jpg",
+                            "img-5a13-e92e-7502-5dbf.jpg",
+                            "img-5a2a-b903-112f-a23f.jpg",
+                            "img-6076-ea8a-ff3e-434a.jpg",
+                            "img-60aa-1c41-64a4-ab97.jpg",
+                            "img-6199-0da0-746f-c62c.jpg",
+                            "img-6344-f52b-e64d-cdd6.jpg",
+                            "img-64b0-9999-e94d-1048.jpg",
+                            "img-64cd-7fd5-5dbb-e1ac.jpg",
+                            "img-6566-40c2-8e0e-d75e.jpg",
+                            "img-658b-1f92-6880-89a5.jpg",
+                            "img-68c2-e509-6797-c39a.jpg",
+                            "img-6989-7318-68a1-9b57.jpg",
+                            "img-6a40-dcb3-6aa4-68a4.jpg",
+                            "img-6aab-066f-7bb2-5315.jpg",
+                            "img-6b1b-074f-7064-d8a2.jpg",
+                            "img-6b54-e502-db2d-5cb3.jpg",
+                            "img-6bfd-402e-980c-0a53.jpg",
+                            "img-6fc6-c8dc-d1e3-a434.jpg",
+                            "img-700b-790f-8f26-d5af.jpg",
+                            "img-7071-5033-8692-09dc.jpg",
+                            "img-7332-265b-19fd-23f2.jpg",
+                            "img-735c-104a-9ee2-20ea.jpg",
+                            "img-73f4-0664-6ddb-dbc9.jpg",
+                            "img-74ef-0242-d3cd-4c22.jpg",
+                            "img-7730-5f7a-b1ac-7bc7.jpg",
+                            "img-7733-e32c-bc35-48b6.jpg",
+                            "img-7761-354c-bccb-b7a8.jpg",
+                            "img-78e9-8cfc-22eb-a435.jpg",
+                            "img-7a23-47a9-1230-1d4f.jpg",
+                            "img-7a32-301a-be9c-1449.jpg",
+                            "img-7a3e-6cde-f6a3-9c4c.jpg",
+                            "img-7cff-affc-6fff-65bd.jpg",
+                            "img-7d54-5576-f84c-4fd7.jpg",
+                            "img-7e31-933f-c539-bd2d.jpg",
+                            "img-7f80-b435-ff9d-4074.jpg",
+                            "img-81b5-7bd5-e308-c80f.jpg",
+                            "img-8313-3048-d2d2-0ae2.jpg",
+                            "img-83db-4a68-c4ce-5f73.jpg",
+                            "img-8628-a2cd-6887-7a70.jpg",
+                            "img-87bd-8f7f-c3f3-78e3.jpg",
+                            "img-87db-dfcb-d30a-b8e7.jpg",
+                            "img-87fe-9b84-f507-b557.jpg",
+                            "img-8892-7a79-b24d-414a.jpg",
+                            "img-8959-ab43-74c4-ee2a.jpg",
+                            "img-896d-d5a0-354f-60c1.jpg",
+                            "img-8a35-1b53-a5d1-76a1.jpg",
+                            "img-8aec-8939-0480-7c1f.jpg",
+                            "img-8bd0-a5bd-bb38-d0e2.jpg",
+                            "img-8bf8-2696-7d8b-8d37.jpg",
+                            "img-8e52-9f8c-6ef9-af7b.jpg",
+                            "img-8e8e-c689-37e3-dcbd.jpg",
+                            "img-8e92-7a71-058a-52eb.jpg",
+                            "img-8f1b-1ee6-a8ed-9243.jpg",
+                            "img-8f85-a527-54d0-7a5b.jpg",
+                            "img-8fc5-e4d8-e684-b887.jpg",
+                            "img-8ff9-33f8-cba7-0fbd.jpg",
+                            "img-900b-2273-9a23-432f.jpg",
+                            "img-92af-6484-be32-4436.jpg",
+                            "img-963d-545a-e79d-5c73.jpg",
+                            "img-988d-b403-2e4e-e894.jpg",
+                            "img-98f7-419d-d11d-40d4.jpg",
+                            "img-99d9-d169-5c47-a54b.jpg",
+                            "img-9a39-6500-e680-1747.jpg",
+                            "img-9a5b-159d-74db-6c22.jpg",
+                            "img-9a9b-375c-21e3-3e22.jpg",
+                            "img-9aff-36b3-0141-0440.jpg",
+                            "img-9b5f-e461-08e5-5799.jpg",
+                            "img-9b9d-67d2-8bd2-954f.jpg",
+                            "img-9c31-bf2a-0056-67f6.jpg",
+                            "img-9c77-6dde-219a-5819.jpg",
+                            "img-9cfe-663c-b27d-6d07.jpg",
+                            "img-9d6b-1c3d-9210-0b2e.jpg",
+                            "img-9d75-a70f-5eeb-f09c.jpg",
+                            "img-9f15-c7c4-2122-1e0d.jpg",
+                            "img-9f69-5c68-4373-953a.jpg",
+                            "img-a0ad-4cb9-f825-4ef4.jpg",
+                            "img-a195-2694-5a01-5f3b.jpg",
+                            "img-a1ba-a120-20d0-5f62.jpg",
+                            "img-a334-9d1d-b2b9-1253.jpg",
+                            "img-a441-b6a5-b247-775f.jpg",
+                            "img-a678-2aee-0dfe-e5a3.jpg",
+                            "img-a699-238f-dc54-f80b.jpg",
+                            "img-a75a-f1a9-5484-7fc5.jpg",
+                            "img-a7f8-1ff2-948b-220d.jpg",
+                            "img-a811-0d8f-affd-87bf.jpg",
+                            "img-a955-cefa-a440-8616.jpg",
+                            "img-a981-8d1c-3c8c-85bf.jpg",
+                            "img-ab96-1627-535c-3861.jpg",
+                            "img-ad9d-5e9e-a7a7-197d.jpg",
+                            "img-adde-c795-5a52-d948.jpg",
+                            "img-ae55-3ada-7428-0588.jpg",
+                            "img-af8c-65ed-48f6-54da.jpg",
+                            "img-b09b-0701-514d-c7c9.jpg",
+                            "img-b323-b655-4bd1-99d0.jpg",
+                            "img-b3f9-c564-c1b3-439b.jpg",
+                            "img-b514-8c82-efce-abb9.jpg",
+                            "img-b587-2dc2-00b4-48cf.jpg",
+                            "img-b65d-69a9-5c0f-be5b.jpg",
+                            "img-b752-7afa-8eeb-0935.jpg",
+                            "img-b78e-6873-a7d2-7b21.jpg",
+                            "img-bb3a-a1e3-c48d-5d51.jpg",
+                            "img-bbea-4305-14ce-1507.jpg",
+                            "img-bc8b-fb7e-69b6-a8cd.jpg",
+                            "img-bcc4-1b96-869b-09a7.jpg",
+                            "img-bd7f-93c5-4002-e1dc.jpg",
+                            "img-bdf5-2693-abee-7df4.jpg",
+                            "img-be45-0b2d-84a9-c908.jpg",
+                            "img-c013-27b9-6c38-16dd.jpg",
+                            "img-c0fa-382a-3119-d25a.jpg",
+                            "img-c1cf-f710-398f-fe8f.jpg",
+                            "img-c238-0d8b-7950-5200.jpg",
+                            "img-c265-387a-d5ea-a359.jpg",
+                            "img-c282-6987-f1e7-891e.jpg",
+                            "img-c3c4-a1af-185e-1311.jpg",
+                            "img-c4f1-7dee-ee86-fe97.jpg",
+                            "img-c53a-045a-8043-2e38.jpg",
+                            "img-c569-8cc8-667f-b65d.jpg",
+                            "img-c56a-5e3d-b164-dec1.jpg",
+                            "img-c5a0-3d26-855e-3008.jpg",
+                            "img-c60f-1a2d-e05c-48d8.jpg",
+                            "img-c788-2f47-3cc1-04a3.jpg",
+                            "img-c8ff-b250-3e64-4b34.jpg",
+                            "img-c98e-2def-30c4-92c1.jpg",
+                            "img-ca82-b50e-eed6-a7ad.jpg",
+                            "img-cb7e-4814-e3fc-f905.jpg",
+                            "img-cbe8-82c5-32c1-c8fc.jpg",
+                            "img-cc2f-1f73-9e14-b88a.jpg",
+                            "img-cc31-89bb-3ff2-7e09.jpg",
+                            "img-cd09-a31b-edb9-bc87.jpg",
+                            "img-cd28-6a34-28f7-1adb.jpg",
+                            "img-ce08-e8ba-18d2-0d5e.jpg",
+                            "img-cf21-9e85-5308-4705.jpg",
+                            "img-d063-9ed3-6fba-0107.jpg",
+                            "img-d08b-e161-260b-a582.jpg",
+                            "img-d0b2-b090-b08c-52d7.jpg",
+                            "img-d16e-a4fa-2c7b-b6d5.jpg",
+                            "img-d171-f336-bbb9-6696.jpg",
+                            "img-d44f-adce-af6c-5309.jpg",
+                            "img-d49f-0e79-2337-3a31.jpg",
+                            "img-d521-a4f1-aa89-e998.jpg",
+                            "img-d525-ec5c-b1eb-b4d6.jpg",
+                            "img-d5c1-64fd-de3a-2754.jpg",
+                            "img-d6d0-bde5-6101-fbe1.jpg",
+                            "img-d800-136f-7334-439e.jpg",
+                            "img-d878-ca26-3d82-fcd7.jpg",
+                            "img-d91b-463d-6b83-0938.jpg",
+                            "img-d976-b3f9-de7b-6dc3.jpg",
+                            "img-d998-ad78-d576-81bd.jpg",
+                            "img-daa7-bbd1-14d1-396f.jpg",
+                            "img-daaa-5c23-3136-957b.jpg",
+                            "img-dc84-bdc6-bc38-f801.jpg",
+                            "img-dd5a-1581-9571-d9a2.jpg",
+                            "img-dd60-b921-34fa-ce7f.jpg",
+                            "img-dded-b16e-98f4-e7c2.jpg",
+                            "img-de48-f856-8f24-6170.jpg",
+                            "img-df0f-ead0-cf11-422b.jpg",
+                            "img-e024-3271-b654-d2cf.jpg",
+                            "img-e2ce-213d-3ade-5fda.jpg",
+                            "img-e320-549e-9f5f-0092.jpg",
+                            "img-e373-b028-aef4-6997.jpg",
+                            "img-e5eb-129c-b39b-bb3f.jpg",
+                            "img-e849-60ca-b567-b6f0.jpg",
+                            "img-e946-dfc7-d4f3-9aba.jpg",
+                            "img-e964-ccc6-f3fa-323e.jpg",
+                            "img-eaf2-cd53-4edc-dddf.jpg",
+                            "img-ec54-a071-f3a8-7242.jpg",
+                            "img-eda5-b00f-a0b9-3169.jpg",
+                            "img-eeec-b2db-6d6d-e88c.jpg",
+                            "img-ef20-a691-3fe6-47b3.jpg",
+                            "img-f170-79d4-3d41-19db.jpg",
+                            "img-f25f-ddad-9128-72b6.jpg",
+                            "img-f47c-5366-f5ad-7ca7.jpg",
+                            "img-f507-3fb7-63bf-bbef.jpg",
+                            "img-f556-5bc4-a86f-4f30.jpg",
+                            "img-f698-e238-c890-26b0.jpg",
+                            "img-f6ed-a251-4f33-bf35.jpg",
+                            "img-f6f3-051d-62e6-af72.jpg",
+                            "img-f7ad-29a3-56ff-2ea5.jpg",
+                            "img-f891-ae06-42b5-513b.jpg",
+                            "img-fa75-1a1e-ca42-acce.jpg",
+                            "img-fb78-a1e4-a696-f030.jpg",
+                            "img-fd81-34c3-3d7e-4e17.jpg",
+                            "img-fd85-d6f2-764d-56a3.jpg",
+                            "img-fd98-fa25-a0f5-a66f.jpg"
+                        ],
+    "questions":  [
+                      {
+                          "n":  1,
+                          "slideId":  "mfqmh4xruvpj-yh2kcwjc98rb",
+                          "type":  "MultipleChoice",
+                          "question":  "Que largura tem um pneu 295/80 R 22.5?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eQue largura tem um pneu 295/80 R 22.5?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-9a5b-159d-74db-6c22.jpg",
+                          "imageRelativePath":  "data/images/img-9a5b-159d-74db-6c22.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "295 mm.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003e295 mm.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "80 mm.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003e80 mm.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "22.5 polegadas.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003e22.5 polegadas.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  2,
+                          "slideId":  "rdpysljsn63t-czus2chcbjc1",
+                          "type":  "MultipleChoice",
+                          "question":  "A chapa de matrícula colocada na retaguarda do veículo deve ser iluminada por uma luz branca que a tome legível, a uma distância mínima, de pelo menos: ",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA chapa de matrícula colocada na retaguarda do veículo deve ser iluminada por uma luz branca que a tome legível, a uma distância mínima, de pelo menos: \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-544f-0151-9d97-abf9.jpg",
+                          "imageRelativePath":  "data/images/img-544f-0151-9d97-abf9.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "25 metros.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003e25 metros.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "15 metros.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003e15 metros.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "10 metros.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003e10 metros.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "20 metros.",
+                                              "html":  "\u003cp style=\"text-align:left;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003e20 metros.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  3,
+                          "slideId":  "vkzssgo0c85n-t9jv548qdqdu",
+                          "type":  "MultipleChoice",
+                          "question":  "Deve-se conduzir sempre com o pé apoiado sobre o pedal da embraiagem?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eDeve-se conduzir sempre com o pé apoiado sobre o pedal da embraiagem?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-c98e-2def-30c4-92c1.jpg",
+                          "imageRelativePath":  "data/images/img-c98e-2def-30c4-92c1.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Não.",
+                                              "html":  "\u003cp style=\"text-align:left;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eNão.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Sim, se circular em trânsito intenso.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSim, se circular em trânsito intenso.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Sim, sempre.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSim, sempre.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  4,
+                          "slideId":  "qawemgngzfw3-ncqlaicqj3vy",
+                          "type":  "MultipleChoice",
+                          "question":  "O que entende por centro de gravidade:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO que entende por centro de gravidade:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-bdf5-2693-abee-7df4.jpg",
+                          "imageRelativePath":  "data/images/img-bdf5-2693-abee-7df4.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "É o ponto imaginário onde actua a força de gravidade.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eÉ o ponto imaginário onde actua a força de gravidade.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "É o centro da cabine do condutor.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eÉ o centro da cabine do condutor.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "É o centro da caixa de carga.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eÉ o centro da caixa de carga.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "É o ponto fixo situado entre a cabine e a caixa de carga.",
+                                              "html":  "\u003cp style=\"text-align:left;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eÉ o ponto fixo situado entre a cabine e a caixa de carga.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  5,
+                          "slideId":  "o5xcoztz3d8s-ts287y17f0ud",
+                          "type":  "MultipleChoice",
+                          "question":  "Ao sair de um prédio particular, algum veículo pode ter prioridade?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eAo sair de um prédio particular, algum veículo pode ter prioridade?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-a1ba-a120-20d0-5f62.jpg",
+                          "imageRelativePath":  "data/images/img-a1ba-a120-20d0-5f62.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Nunca.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eNunca.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Sim, desde que seja um veiculo automóvel.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSim, desde que seja um veiculo automóvel.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Sim.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSim.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Só as ambulâncias.",
+                                              "html":  "\u003cp style=\"text-align:left;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSó as ambulâncias.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  6,
+                          "slideId":  "fi9c298gy0bg-rwc18o3nyl2",
+                          "type":  "MultipleChoice",
+                          "question":  "O tacógrafo serve para:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO tacógrafo serve para:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-87bd-8f7f-c3f3-78e3.jpg",
+                          "imageRelativePath":  "data/images/img-87bd-8f7f-c3f3-78e3.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Registar a velocidade.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eRegistar a velocidade.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Verificar o funcionamento do motor.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eVerificar o funcionamento do motor.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Indicar a pressão de óleo na caixa de velocidades.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eIndicar a pressão de óleo na caixa de velocidades.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  7,
+                          "slideId":  "1ye68g38lxvm-jv7dnx9d7vyi",
+                          "type":  "MultipleChoice",
+                          "question":  "O feixe de luz projectado no solo pelas luzes de cruzamento devem iluminar, eficazmente e sem provocar encandeamento, a uma distância de:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO feixe de luz projectado no solo pelas luzes de cruzamento devem iluminar, eficazmente e sem provocar encandeamento, a uma distância de:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-0001-f22d-525d-73fe.jpg",
+                          "imageRelativePath":  "data/images/img-0001-f22d-525d-73fe.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "30 metros.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003e30 metros.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "25 metros.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003e25 metros.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "50 metros.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003e50 metros.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "45 metros.",
+                                              "html":  "\u003cp style=\"text-align:left;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003e45 metros.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  8,
+                          "slideId":  "jfd1ybpad4iz-ced3czbtyepb",
+                          "type":  "MultipleChoice",
+                          "question":  "O indicador de velocidade instantânea do veículo é:",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eO indicador de velocidade instantânea do veículo é:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-6344-f52b-e64d-cdd6.jpg",
+                          "imageRelativePath":  "data/images/img-6344-f52b-e64d-cdd6.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Velocímetro.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eVelocímetro.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Conta-quilómetros.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eConta-quilómetros.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Voltímetro.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eVoltímetro.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Amperímetro.",
+                                              "html":  "\u003cp style=\"text-align:left;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eAmperímetro.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  9,
+                          "slideId":  "p0vwgtque5nw-l9ct59vt6hcx",
+                          "type":  "MultipleChoice",
+                          "question":  "Um pneu com excesso de pressão apresenta maior desgaste: ",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eUm pneu com excesso de pressão apresenta maior desgaste: \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-4555-b84b-96f5-b343.jpg",
+                          "imageRelativePath":  "data/images/img-4555-b84b-96f5-b343.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "No centro.",
+                                              "html":  "\u003cp style=\"text-align:left;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eNo centro.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "No lado direito.",
+                                              "html":  "\u003cp style=\"text-align:left;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eNo lado direito.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "No lado esquerdo.",
+                                              "html":  "\u003cp style=\"text-align:left;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eNo lado esquerdo.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  10,
+                          "slideId":  "8zi3ppq14f2j-b8jicmfmngk",
+                          "type":  "MultipleChoice",
+                          "question":  "A válvula de enchimento de um pneu tubeless, está montada na: ",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eA válvula de enchimento de um pneu tubeless, está montada na: \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-e320-549e-9f5f-0092.jpg",
+                          "imageRelativePath":  "data/images/img-e320-549e-9f5f-0092.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Jante da roda.",
+                                              "html":  "\u003cp style=\"text-align:left;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eJante da roda.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Câmara de ar.",
+                                              "html":  "\u003cp style=\"text-align:left;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eCâmara de ar.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "parte interior do pneu.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eparte interior do pneu.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  11,
+                          "slideId":  "t4xljpb7b46f-6f1btmrb3fr1",
+                          "type":  "MultipleChoice",
+                          "question":  "Para mudar a roda de um automóvel, o condutor deve utilizar: ",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003ePara mudar a roda de um automóvel, o condutor deve utilizar: \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-d16e-a4fa-2c7b-b6d5.jpg",
+                          "imageRelativePath":  "data/images/img-d16e-a4fa-2c7b-b6d5.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "Uma chave de cruzeta e um macaco de elevação.",
+                                              "html":  "\u003cp style=\"text-align:left;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eUma chave de cruzeta e um macaco de elevação.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "Uma chave de fendas e um macaco de elevação.",
+                                              "html":  "\u003cp style=\"text-align:left;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eUma chave de fendas e um macaco de elevação.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "Uma chave inglesa e um martelo.",
+                                              "html":  "\u003cp style=\"text-align:left;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eUma chave inglesa e um martelo.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      },
+                      {
+                          "n":  12,
+                          "slideId":  "8q5wr1qiydkk-6u1ktj7n0xo5",
+                          "type":  "MultipleChoice",
+                          "question":  "Se percorrer uma distância de 210 km em 3 horas e meia, qual será a velocidade média imprimida?",
+                          "questionHtml":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#4d4d4d\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:20px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003eSe percorrer uma distância de 210 km em 3 horas e meia, qual será a velocidade média imprimida?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                          "imageUri":  "storage://images/img-59c5-cd07-6ddd-57a8.jpg",
+                          "imageRelativePath":  "data/images/img-59c5-cd07-6ddd-57a8.jpg",
+                          "options":  [
+                                          {
+                                              "text":  "60 km/h.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003e60 km/h.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  true
+                                          },
+                                          {
+                                              "text":  "50 km/h.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003e50 km/h.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "70 km/h.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003e70 km/h.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          },
+                                          {
+                                              "text":  "80 km/h.",
+                                              "html":  "\u003cp style=\"text-align:left;margin-left:0px;\"\u003e\u003cspan data-format-tag-id=\"color\" style=\"color:#000000\"\u003e\u003cspan style=\"text-decoration:none\"\u003e\u003cspan style=\"font-size:18px\"\u003e\u003cspan style=\"font-family:fnt6_56301\"\u003e\u003cspan style=\"font-weight:normal\"\u003e\u003cspan style=\"font-style:normal\"\u003e80 km/h.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e",
+                                              "correct":  false
+                                          }
+                                      ]
+                      }
+                  ]
+}
